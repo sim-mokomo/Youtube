@@ -1,5 +1,3 @@
-require 'json'
-
 class Object
   def to_hash_object
     hash = {}

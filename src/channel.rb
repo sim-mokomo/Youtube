@@ -1,4 +1,4 @@
-require './src/youtube_service.rb'
+require './src/youtube_service'
 require './src/video'
 
 class Channel
