@@ -1,4 +1,4 @@
-require './src/youtube_service.rb'
+require './src/youtube_service'
 require './src/video'
 
 class PlayList
@@ -35,10 +35,10 @@ class PlayList
   # @return [Array<Google::Apis::YoutubeV3::ListPlaylistItemsResponse>]
   def list_playlist_items(page_token)
     @youtube_service.service.list_playlist_items(
-        'snippet',
-        playlist_id: @playlist_id,
-        max_results: 50,
-        page_token: page_token
-      )
+      'snippet',
+      playlist_id: @playlist_id,
+      max_results: 50,
+      page_token: page_token
+    )
   end
 end

@@ -1,4 +1,5 @@
 require 'csv'
+require './src/extensions/object_extensions'
 
 class VideoTable
   attr_reader :records
