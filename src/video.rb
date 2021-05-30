@@ -1,4 +1,4 @@
-require './src/youtube_service.rb'
+require './src/youtube_service'
 
 class Video
   attr_reader :video_id, :title

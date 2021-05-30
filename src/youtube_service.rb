@@ -1,5 +1,5 @@
 require 'google/apis/youtube_v3'
-require 'src/config'
+require './src/config'
 
 class YoutubeService
   attr_reader :service
@@ -7,6 +7,6 @@ class YoutubeService
   def initialize
     config = Config.new
     @service = Google::Apis::YoutubeV3::YouTubeService.new
-    @service.key = config.youtube_api_key
+    @service.key = config.current_api_key
   end
 end

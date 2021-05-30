@@ -77,11 +77,11 @@ def split_to_caption_videos(file_name)
     video = Video.new(record.video_id, record.title)
     print "[PROGRESS] check caption #{video.title} #{video.url}"
     if video.contain_language_caption(%w[ja en])
-      puts '=> contain caption'
+      puts ' => contain caption'
       has_caption_video_table.add_record(record)
       has_caption_video_table.save
     else
-      puts '=> not contain caption'
+      puts ' => not contain caption'
       no_caption_video_table.add_record(record)
       no_caption_video_table.save
     end
@@ -128,6 +128,16 @@ def create_request_object(sheet_name, video_records)
   JSON.generate(request)
 end
 
-save_undetected_videos_process
-check_has_captions_process
+config = Config.new
+config.youtube_api_keys.each do |api_key|
+  puts "use youtube api key #{api_key}"
+  begin
+    save_undetected_videos_process
+    check_has_captions_process
+  rescue StandardError => e
+    puts e.class
+    puts e.message
+  end
+  config.increment_api_key_index
+end
 upload_caption_video_to_spreadsheet_process
