@@ -1,12 +1,12 @@
 require 'google/apis/youtube_v3'
-
-GOOGLE_API_KEY = ''.freeze
+require 'src/config'
 
 class YoutubeService
   attr_reader :service
 
   def initialize
+    config = Config.new
     @service = Google::Apis::YoutubeV3::YouTubeService.new
-    @service.key = GOOGLE_API_KEY
+    @service.key = config.youtube_api_key
   end
 end

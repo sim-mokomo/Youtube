@@ -2,5 +2,6 @@
   "youtube-api-keys" : [
 
   ],
-  "gas-api-endpoint": ""
+  "gas-api-endpoint" : "",
+  "use-youtube-api-index" : 0
 }
