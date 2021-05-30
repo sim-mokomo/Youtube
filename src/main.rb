@@ -128,6 +128,6 @@ def create_request_object(sheet_name, video_records)
   JSON.generate(request)
 end
 
-# save_undetected_videos_process
-# check_has_captions_process
+save_undetected_videos_process
+check_has_captions_process
 upload_caption_video_to_spreadsheet_process
