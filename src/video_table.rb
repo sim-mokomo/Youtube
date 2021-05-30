@@ -7,6 +7,7 @@ class VideoTable
   def initialize(base_dir, file_name)
     @base_dir = base_dir
     @file_name = file_name
+    @records = []
     @records = load
   end
 
