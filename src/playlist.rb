@@ -1,3 +1,6 @@
+require './src/youtube_service.rb'
+require './src/video'
+
 class PlayList
   def initialize(playlist_id)
     @playlist_id = playlist_id
@@ -7,6 +10,8 @@ class PlayList
   def fetch_videos
     response = list_playlist_items(nil)
     videos = create_videos(response)
+    return videos if response.next_page_token.nil?
+
     loop do
       response = list_playlist_items(response.next_page_token)
       videos.concat(create_videos(response))
@@ -29,8 +34,7 @@ class PlayList
 
   # @return [Array<Google::Apis::YoutubeV3::ListPlaylistItemsResponse>]
   def list_playlist_items(page_token)
-    @youtube_service
-      .list_playlist_items(
+    @youtube_service.service.list_playlist_items(
         'snippet',
         playlist_id: @playlist_id,
         max_results: 50,
