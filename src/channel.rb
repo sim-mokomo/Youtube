@@ -1,3 +1,6 @@
+require './src/youtube_service.rb'
+require './src/video'
+
 class Channel
   def initialize(channel_id)
     @channel_id = channel_id
@@ -7,13 +10,15 @@ class Channel
   def search_videos
     response = list_searches(nil)
     videos = create_videos_from_response(response)
+    return videos if response.next_page_token.nil?
+
     loop do
       response = list_searches(response.next_page_token)
       videos.concat(create_videos_from_response(response))
       break if response.next_page_token.nil?
     end
 
-    videos
+    videos.filter { |x| !x.video_id.nil? }
   end
 
   private
