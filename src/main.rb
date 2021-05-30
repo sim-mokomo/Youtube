@@ -85,6 +85,8 @@ def split_to_caption_videos(file_name)
       no_caption_video_table.add_record(record)
       no_caption_video_table.save
     end
+    video_records.delete(record)
+    video_table.overwrite_save(video_records)
   end
 end
 
