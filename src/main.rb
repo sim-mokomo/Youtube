@@ -2,7 +2,7 @@ require './src/output_config'
 require './src/video_table'
 require './src/playlist'
 require './src/channel'
-require './src/config'
+require './src/app_config'
 require './src/connection'
 
 def save_undetected_videos_process
@@ -108,7 +108,7 @@ def upload_caption_video_to_spreadsheet(file_name)
     return
   end
 
-  config = Config.new
+  config = AppConfig.new
   connection = Connection.new
   connection.post_json_request(
     config.gas_api_endpoint,
@@ -130,7 +130,7 @@ def create_request_object(sheet_name, video_records)
   JSON.generate(request)
 end
 
-config = Config.new
+config = AppConfig.new
 config.youtube_api_keys.each do |api_key|
   puts "use youtube api key #{api_key}"
   begin

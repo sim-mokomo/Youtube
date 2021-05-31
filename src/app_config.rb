@@ -1,10 +1,10 @@
 require 'json'
 
-class Config
+class AppConfig
   attr_reader :gas_api_endpoint, :youtube_api_keys
 
   def initialize
-    File.open('config.json') do |file|
+    File.open('app_config.json') do |file|
       json = JSON.parse(file.read)
       @youtube_api_keys = json['youtube-api-keys']
       @gas_api_endpoint = json['gas-api-endpoint']

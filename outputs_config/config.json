@@ -1,0 +1,28 @@
+{
+  "playlist_configs" : [
+    {
+      "name":"Early Christian Schisms",
+      "id" : "PLhyKYa0YJ_5A2WfrnfPglTL_ZCPDN_rDT"
+    },
+    {
+      "name":"Extra Credits (ALL EPISODES)",
+      "id" : "PLB9B0CA00461BB187"
+    },
+    {
+      "name":"Extra History (ALL EPISODES)",
+      "id" : "PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu"
+    }
+  ],
+  "channel_configs" : [
+    {
+      "enable" : false,
+      "name":"Game Maker's Toolkit",
+      "id" : "UCqJ-Xo29CKyLTjn6z2XwYAw"
+    },
+    {
+      "enable" : false,
+      "name":"BBQ Pit Boys",
+      "id" : "UCjrL1ugI6xGqQ7VEyV6aRAg"
+    }
+  ]
+}
