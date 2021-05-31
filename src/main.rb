@@ -142,4 +142,5 @@ config.youtube_api_keys.each do |api_key|
   end
   config.increment_api_key_index
 end
+config.reset_api_key_idnex
 upload_caption_video_to_spreadsheet_process
