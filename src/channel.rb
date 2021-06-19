@@ -32,7 +32,8 @@ class Channel
     end
   end
 
-  # @return [Array<Google::Apis::YoutubeV3::SearchListsResponse>]
+  # @param [String] page_token
+  # @return [Google::Apis::YoutubeV3::SearchListsResponse]
   def list_searches(page_token)
     @youtube_service.service.list_searches(
       'id,snippet',

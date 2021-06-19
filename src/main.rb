@@ -9,28 +9,16 @@ def save_undetected_videos_process
   output_config = OutputConfig.new
   output_config.playlist_configs.each do |config|
     videos = PlayList.new(config.id).fetch_videos
+    puts "[START] fetching video from #{config.name}"
     save_undetected_video_records(videos, config.name)
-  end
-  output_config.channel_configs.each do |config|
-    unless config.enable
-      p "skip channel searching #{config.name}"
-      next
-    end
-
-    videos = Channel.new(config.id).search_videos
-    save_undetected_video_records(videos, config.name)
+    puts "[END] fetching video from #{config.name}"
   end
 end
 
 def save_undetected_video_records(videos, file_name)
-  puts "[START] fetching video from channel #{file_name}"
   video_records = get_undetected_video_record_only(videos, file_name)
-  video_records.each do |record|
-    p record
-  end
   video_table = VideoTable.new('./outputs/undetected', file_name)
   video_table.overwrite_save(video_records)
-  puts "[END] fetching video in #{file_name}"
 end
 
 def get_undetected_video_record_only(source_videos, file_name)
@@ -53,12 +41,6 @@ end
 def check_has_captions_process
   output_config = OutputConfig.new
   output_config.playlist_configs.each do |config|
-    puts "[START] checking caption in #{config.name}"
-    split_to_caption_videos(config.name)
-    puts "[END] checking caption in #{config.name}"
-  end
-
-  output_config.channel_configs.each do |config|
     puts "[START] checking caption in #{config.name}"
     split_to_caption_videos(config.name)
     puts "[END] checking caption in #{config.name}"
@@ -93,9 +75,6 @@ end
 def upload_caption_video_to_spreadsheet_process
   output_config = OutputConfig.new
   output_config.playlist_configs.each do |config|
-    upload_caption_video_to_spreadsheet(config.name)
-  end
-  output_config.channel_configs.each do |config|
     upload_caption_video_to_spreadsheet(config.name)
   end
 end

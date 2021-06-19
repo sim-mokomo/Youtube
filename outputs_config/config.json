@@ -11,18 +11,25 @@
     {
       "name":"Extra History (ALL EPISODES)",
       "id" : "PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu"
+    },
+    {
+      "name":"The Coding Train",
+      "id" : "UUvjgXvBlbQiydffZU7m1_aw"
+    },
+    {
+      "name":"BBQ Pit Boys",
+      "id" : "UUjrL1ugI6xGqQ7VEyV6aRAg"
+    },
+    {
+      "name":"Game Maker's Toolkit",
+      "id" : "UUqJ-Xo29CKyLTjn6z2XwYAw"
+    },
+    {
+      "name":"Unreal Engine",
+      "id" : "UUBobmJyzsJ6Ll7UbfhI4iwQ"
     }
   ],
   "channel_configs" : [
-    {
-      "enable" : false,
-      "name":"Game Maker's Toolkit",
-      "id" : "UCqJ-Xo29CKyLTjn6z2XwYAw"
-    },
-    {
-      "enable" : false,
-      "name":"BBQ Pit Boys",
-      "id" : "UCjrL1ugI6xGqQ7VEyV6aRAg"
-    }
+
   ]
 }
