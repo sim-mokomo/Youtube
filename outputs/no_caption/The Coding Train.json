@@ -1,0 +1,3062 @@
+[
+  {
+    "video_id": "-LFjnY1PEDA",
+    "title": "16.7: Array Functions: reduce() - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "MWD-iKzR2c8",
+    "title": "16.9: Array Functions: sort() - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "LG8ZK-rRkXo",
+    "title": "Coding Challenge #2: Menger Sponge Fractal"
+  },
+  {
+    "video_id": "NcCEzzd9BGE",
+    "title": "8.4: Handling DOM Events with Callbacks - p5.js Tutorial"
+  },
+  {
+    "video_id": "QO4NXhWo_NM",
+    "title": "16.11: Promises Part 1 - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "rX5p-QRP6R4",
+    "title": "Coding Challenge #36: Blobby!"
+  },
+  {
+    "video_id": "0ZONMNUKTfU",
+    "title": "Coding in the Cabana 5: Marching Squares"
+  },
+  {
+    "video_id": "KWoJgHFYWxY",
+    "title": "Coding Challenge #30: Phyllotaxis"
+  },
+  {
+    "video_id": "P-Upi9TMrBk",
+    "title": "8.1: Intro to Session 8: Building an API in Node - Programming with Text"
+  },
+  {
+    "video_id": "qmnH5MT_luk",
+    "title": "16.8: Array Functions: filter() - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "nqiKWXUX-o8",
+    "title": "18.1: Introduction to WebGL in p5.js - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "01RTj1MWec0",
+    "title": "16.15: Promise.all() - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "bEyTZ5ZZxZs",
+    "title": "Coding Challenge #76: 10PRINT in p5.js"
+  },
+  {
+    "video_id": "HyK_Q5rrcr4",
+    "title": "Coding Challenge #10.1: Maze Generator with p5.js - Part 1"
+  },
+  {
+    "video_id": "D8UgRyRnvXU",
+    "title": "Coding Challenge #10.2: Maze Generator with p5.js - Part 2"
+  },
+  {
+    "video_id": "znOBmOrtz_M",
+    "title": "3.2: Trigonometry and Polar Coordinates - The Nature of Code"
+  },
+  {
+    "video_id": "jxGS3fKPKJA",
+    "title": "Coding Challenge #6: Mitosis Simulation with p5.js"
+  },
+  {
+    "video_id": "nMUMZ5YRxHI",
+    "title": "11.3: The Pixel Array - p5.js Tutorial"
+  },
+  {
+    "video_id": "OTNpiLUSiB4",
+    "title": "9.15: 2D Arrays in JavaScript - p5.js Tutorial"
+  },
+  {
+    "video_id": "e3VSVZn4BHg",
+    "title": "5.2: What makes up a Box2D world? - The Nature of Code"
+  },
+  {
+    "video_id": "E4RyStef-gY",
+    "title": "Coding Challenge #74: Clock with p5.js"
+  },
+  {
+    "video_id": "6iZiqQZBQJY",
+    "title": "8.5: Saving Data to JSON File with Node.js - Programming with Text"
+  },
+  {
+    "video_id": "q2IDNkUws-A",
+    "title": "17.8: Microphone Input - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "chavThlNz3s",
+    "title": "16.14: async/await Part 2 - Topics of JavaScript/ES8"
+  },
+  {
+    "video_id": "OJxEcs0w_kE",
+    "title": "Coding Challenge #98.1: Quadtree - Part 1"
+  },
+  {
+    "video_id": "OIo-DIOkNVg",
+    "title": "ml5.js Pose Estimation with PoseNet"
+  },
+  {
+    "video_id": "q8SHaDQdul0",
+    "title": "16.1: let vs var - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "2iLVFyYwyRA",
+    "title": "16.2: const - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "DKGodqDs9sA",
+    "title": "7.1: Cellular Automata - The Nature of Code"
+  },
+  {
+    "video_id": "XO77Fib9tSI",
+    "title": "16.13: async/await Part 1 - Topics of JavaScript/ES8"
+  },
+  {
+    "video_id": "8uLVnM36XUc",
+    "title": "Processing / p5.js Tutorial: What is lerp? (Linear Interpolation)"
+  },
+  {
+    "video_id": "6z7GQewK-Ks",
+    "title": "Coding Challenge #21: Mandelbrot Set with p5.js"
+  },
+  {
+    "video_id": "frh0coyRmJQ",
+    "title": "I.2: Probability Basics - The Nature of Code"
+  },
+  {
+    "video_id": "u5GAVdLQyIg",
+    "title": "10.4: Neural Networks: Multilayer Perceptron Part 1 - The Nature of Code"
+  },
+  {
+    "video_id": "lu5ul7z4icQ",
+    "title": "11.1: Introduction to Neuroevolution - The Nature of Code"
+  },
+  {
+    "video_id": "W1zKu3fDQR8",
+    "title": "7.2: Wolfram Elementary Cellular Automata - The Nature of Code"
+  },
+  {
+    "video_id": "QJoa0JYaX1I",
+    "title": "10.14: Neural Networks: Backpropagation Part 1 - The Nature of Code"
+  },
+  {
+    "video_id": "uWzPe_S-RVE",
+    "title": "Coding Challenge #93: Double Pendulum"
+  },
+  {
+    "video_id": "4zhJlkGQTvU",
+    "title": "6.2: Steering Behaviors: Seek - The Nature of Code"
+  },
+  {
+    "video_id": "f6ra024-ASY",
+    "title": "8.5: L-Systems - The Nature of Code"
+  },
+  {
+    "video_id": "lAtoaRz78I4",
+    "title": "8.2: Creating HTML Elements with JavaScript - p5.js Tutorial"
+  },
+  {
+    "video_id": "9Tl3OmwrSaM",
+    "title": "11.3: Chrome Extensions: Content Scripts - Programming with Text"
+  },
+  {
+    "video_id": "2hhEOGXcCvg",
+    "title": "12.2: Using Express with Node - WebSockets and p5.js Tutorial"
+  },
+  {
+    "video_id": "trKjYdBASyQ",
+    "title": "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm"
+  },
+  {
+    "video_id": "bkGf4fEHKak",
+    "title": "11.1: Live Video and createCapture() - p5.js Tutorial"
+  },
+  {
+    "video_id": "HZ4D3wDRaec",
+    "title": "1.2: p5.js Workflow - p5.js Tutorial"
+  },
+  {
+    "video_id": "RTc6i-7N3ms",
+    "title": "Coding Challenge #64.3: Inverse Kinematics - Fixed Point"
+  },
+  {
+    "video_id": "o9sgjuh-CBM",
+    "title": "9.1: Transformations Pt.1 (Translate, Rotate, Push/Pop) - p5.js Tutorial"
+  },
+  {
+    "video_id": "BjoM9oKOAKY",
+    "title": "Coding Challenge #24: Perlin Noise Flow Field"
+  },
+  {
+    "video_id": "pNDc8KXWp9E",
+    "title": "9.23: createGraphics() - p5.js Tutorial"
+  },
+  {
+    "video_id": "h8tk0hmWB44",
+    "title": "11.4: Introduction to Computer Vision - Processing Tutorial"
+  },
+  {
+    "video_id": "h_aTgOl9J5I",
+    "title": "17.10: Sound Visualization: Radial Graph - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "hbgDqyy8bIw",
+    "title": "Coding Challenge #64.2: Inverse Kinematics"
+  },
+  {
+    "video_id": "qMq-zd6hguc",
+    "title": "3.1: Angles and Angular Motion - The Nature of Code"
+  },
+  {
+    "video_id": "BV9ny785UNc",
+    "title": "Coding Challenge #13: Reaction Diffusion Algorithm in p5.js"
+  },
+  {
+    "video_id": "bGz7mv2vD6g",
+    "title": "Coding Challenge #29: Smart Rockets in p5.js"
+  },
+  {
+    "video_id": "nCVZHROb_dE",
+    "title": "11.5: Computer Vision: Color Tracking - Processing Tutorial"
+  },
+  {
+    "video_id": "EaZxUCWAjb0",
+    "title": "Coding Challenge 51.2: A* Pathfinding Algorithm - Part 2"
+  },
+  {
+    "video_id": "Su792jEauZg",
+    "title": "9.11: Instance Mode (aka &quot;namespacing&quot;) - p5.js Tutorial"
+  },
+  {
+    "video_id": "zGL8q8iQSQw",
+    "title": "8.7: The Basics of CSS - p5.js Tutorial"
+  },
+  {
+    "video_id": "2O3nm0Nvbi4",
+    "title": "17.11: Sound Visualization: Frequency Analysis with FFT - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "H81Tdrmz2LA",
+    "title": "Coding Challenge #86: Cube Wave by Bees and Bombs"
+  },
+  {
+    "video_id": "Pchg6F_koOw",
+    "title": "13.7: Manual Parsing - Processing Tutorial"
+  },
+  {
+    "video_id": "QHEQuoIKgNE",
+    "title": "Coding Challenge #50.1: Animated Circle Packing - Part 1"
+  },
+  {
+    "video_id": "FWSR_7kZuYg",
+    "title": "Coding Challenge #85: The Game of Life"
+  },
+  {
+    "video_id": "rqROpUNb2aY",
+    "title": "13.6: XML and JSON - Processing Tutorial"
+  },
+  {
+    "video_id": "JcopTKXt8L8",
+    "title": "Coding Challenge #18: 3D Fractal Trees"
+  },
+  {
+    "video_id": "7eBLAgT0yUs",
+    "title": "1.6: Vectors: Acceleration towards Mouse - The Nature of Code"
+  },
+  {
+    "video_id": "TQ_WZU5s_VA",
+    "title": "1.5: Acceleration - The Nature of Code"
+  },
+  {
+    "video_id": "Rhqk9HYiB7Q",
+    "title": "7.1: Intro to Session 7: Context-Free Grammar - Programming with Text"
+  },
+  {
+    "video_id": "FBmxc4EyVjs",
+    "title": "12.2: The Depth Image - Kinect and Processing Tutorial"
+  },
+  {
+    "video_id": "4hA7G3gup-4",
+    "title": "Coding Challenge #59: Steering Behaviors"
+  },
+  {
+    "video_id": "8uyR-YU_0dg",
+    "title": "I.3: Gaussian Distribution - The Nature of Code"
+  },
+  {
+    "video_id": "Pn1g1wjxl_0",
+    "title": "17.1: Loading and Playing - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "uSzGdfdOoG8",
+    "title": "10.6: Neural Networks: Matrix Math Part 1 - The Nature of Code"
+  },
+  {
+    "video_id": "YfaJ20vXcK8",
+    "title": "8.3: Manipulating DOM Elements with html() and position() - p5.js Tutorial"
+  },
+  {
+    "video_id": "tENSCEO-LEc",
+    "title": "7.3: The Game of Life - The Nature of Code"
+  },
+  {
+    "video_id": "FGAwi7wpU8c",
+    "title": "Coding Challenge #9: Solar System in Processing - Part 3 (3D textures)"
+  },
+  {
+    "video_id": "MsRROjQJxuo",
+    "title": "5.1: Introduction to Box2D - The Nature of Code"
+  },
+  {
+    "video_id": "76fiD5DvzeQ",
+    "title": "9.22: Custom Shapes - p5.js Tutorial"
+  },
+  {
+    "video_id": "CKeyIbT3vXI",
+    "title": "Coding Challenge #27: Fireworks!"
+  },
+  {
+    "video_id": "5cNnf_7e92Q",
+    "title": "Coding Challenge #95: Approximating the Value of Pi"
+  },
+  {
+    "video_id": "DxFDgOYEoy8",
+    "title": "2.4 Drag Force - The Nature of Code"
+  },
+  {
+    "video_id": "flQgnCUxHlw",
+    "title": "Coding Challenge #33: Poisson-disc Sampling"
+  },
+  {
+    "video_id": "H4awPsyugS0",
+    "title": "16.5: Higher Order Functions in JavaScript - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "EnYlhbpzhU4",
+    "title": "16.6: Array Functions: map() and fill() - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "8ZEMLCnn8v0",
+    "title": "I.5: Perlin Noise - The Nature of Code"
+  },
+  {
+    "video_id": "f0lkz2gSsIk",
+    "title": "Coding Challenge #12: The Lorenz Attractor in Processing"
+  },
+  {
+    "video_id": "HnSJZ4qTcwY",
+    "title": "4.2: ArrayLists in Processing - The Nature of Code"
+  },
+  {
+    "video_id": "UCHzlUiDD10",
+    "title": "9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial"
+  },
+  {
+    "video_id": "nmZbhManVcY",
+    "title": "1.2: p5.js with Brackets - p5.js Tutorial"
+  },
+  {
+    "video_id": "E1B4UoSQMFw",
+    "title": "Coding Challenge #16: L-System Fractal Trees"
+  },
+  {
+    "video_id": "ew9ut7ixIlI",
+    "title": "11.4: Chrome Extensions: Background Scripts - Programming with Text"
+  },
+  {
+    "video_id": "UcdigVaIYAk",
+    "title": "Coding Challenge #78: Simple Particle System"
+  },
+  {
+    "video_id": "qWK7yW8oS0I",
+    "title": "10.12: Neural Networks: Feedforward Algorithm Part 1 - The Nature of Code"
+  },
+  {
+    "video_id": "pkHZTWOoTLM",
+    "title": "9.2: Transformations Pt.2 (Scale) - p5.js Tutorial"
+  },
+  {
+    "video_id": "fAsaSkmbF5s",
+    "title": "Coding Challenge #22: Julia Set in Processing"
+  },
+  {
+    "video_id": "wf8w1BJb9Xc",
+    "title": "10.2: Chatbots with RiveScript - Programming with Text"
+  },
+  {
+    "video_id": "z0YFFg_nBjw",
+    "title": "Coding Challenge #98.3: Quadtree Collisions - Part 3"
+  },
+  {
+    "video_id": "dSK-MW-zuAc",
+    "title": "Coding in the Cabana 3: Hilbert Curve"
+  },
+  {
+    "video_id": "DhFZfzOvNTU",
+    "title": "Coding Challenge #110.1: Recamán&#39;s Sequence - Part 1"
+  },
+  {
+    "video_id": "D-XzAeVvMkg",
+    "title": "6.2: TensorFlow.js: Tensors - Intelligence and Learning"
+  },
+  {
+    "video_id": "NBWMtlbbOag",
+    "title": "Coding Challenge #159: Simple Pendulum Simulation"
+  },
+  {
+    "video_id": "ccYLb7cLB1I",
+    "title": "Coding Challenge #28: Metaballs"
+  },
+  {
+    "video_id": "WH31daSj4nc",
+    "title": "11.1: Capture and Live Video - Processing Tutorial"
+  },
+  {
+    "video_id": "QQx_NmCIuCY",
+    "title": "Coding Challenge #98.2: Quadtree - Part 2"
+  },
+  {
+    "video_id": "hkOTAmmuv_4",
+    "title": "11.1: Introduction to Chrome Extensions - Programming with Text"
+  },
+  {
+    "video_id": "DloHqUfPbJc",
+    "title": "11.2: Bookmarklets - Programming with Text"
+  },
+  {
+    "video_id": "k7TiwpeGNmQ",
+    "title": "13.8: Threads - Processing Tutorial"
+  },
+  {
+    "video_id": "Kr4s5sLoROY",
+    "title": "12.4: Average Point Hand Tracking - Kinect and Processing Tutorial"
+  },
+  {
+    "video_id": "i6eP1Lw4gZk",
+    "title": "12.4: Shared Drawing Canvas - WebSockets and p5.js Tutorial"
+  },
+  {
+    "video_id": "l8SiJ-RmeHU",
+    "title": "Coding Challenge #7: Solar System in Processing - Part 1 (2D)"
+  },
+  {
+    "video_id": "woaR-CJEwqc",
+    "title": "13.5: Tabular Data - Processing Tutorial"
+  },
+  {
+    "video_id": "YQnRSa8MGwM",
+    "title": "11.5: Chrome Extensions: Pop-ups - Programming with Text"
+  },
+  {
+    "video_id": "nnlAH1zDBDE",
+    "title": "Coding Challenge #49: Photo Mosaic with White House Social Media Images"
+  },
+  {
+    "video_id": "E1eIg54clGo",
+    "title": "12.3: Raw Depth Data - Point Clouds and Thresholds - Kinect and Processing Tutorial"
+  },
+  {
+    "video_id": "3noMeuufLZY",
+    "title": "Coding Challenge #111: Animated Sprites"
+  },
+  {
+    "video_id": "G1EgjgMo48U",
+    "title": "Coding Challenge #89: Langton&#39;s Ant"
+  },
+  {
+    "video_id": "NLzne4XaR3M",
+    "title": "13.1 Strings and Drawing Text - Processing Tutorial"
+  },
+  {
+    "video_id": "jrk_lOg_pVA",
+    "title": "Coding Challenge #20: 3D Cloth with toxiclibs"
+  },
+  {
+    "video_id": "8f8P1i0W26E",
+    "title": "Coding Challenge #94.2: 2048 - Part 2"
+  },
+  {
+    "video_id": "7-nX3YOC4OA",
+    "title": "15.4: Twitter API Basics - Twitter Bot Tutorial"
+  },
+  {
+    "video_id": "JLAc9hMtcxk",
+    "title": "3.6 Graphing Sine Wave - Nature of Code"
+  },
+  {
+    "video_id": "EyG_2AdHlzY",
+    "title": "7.4: Adding and Removing Objects - p5.js Tutorial"
+  },
+  {
+    "video_id": "LFU5ZlrR21E",
+    "title": "Coding Challenge #71: Minesweeper"
+  },
+  {
+    "video_id": "okfZRl4Xw-c",
+    "title": "3.7: Additive Waves - The Nature of Code"
+  },
+  {
+    "video_id": "GvwPwIUSYqE",
+    "title": "3.3: Simple Harmonic Motion - The Nature of Code"
+  },
+  {
+    "video_id": "pUhv2CA0omA",
+    "title": "4.4: Particle Systems with Image Textures - The Nature of Code"
+  },
+  {
+    "video_id": "-jv3CgDN9sc",
+    "title": "9.4: Genetic Algorithm: Looking at Code - The Nature of Code"
+  },
+  {
+    "video_id": "CMsD3IigG7g",
+    "title": "8.16: The Slider Dance - p5.js Tutorial"
+  },
+  {
+    "video_id": "ce-2l2wRqO8",
+    "title": "11.7: Computer Vision: Blob Detection - Processing Tutorial"
+  },
+  {
+    "video_id": "MLtAMg9_Svw",
+    "title": "Coding Challenge #66: JavaScript Countdown Timer"
+  },
+  {
+    "video_id": "dncudkelNxw",
+    "title": "Coding Challenge #8: Solar System in Processing - Part 2 (3D)"
+  },
+  {
+    "video_id": "JnEH9tYLxLk",
+    "title": "Build a Full Stack Twitter Clone with Coding Garden"
+  },
+  {
+    "video_id": "unm0BLor8aE",
+    "title": "Coding Challenge #40.1: Word Counter in JavaScript"
+  },
+  {
+    "video_id": "Ae73YY_GAU8",
+    "title": "Coding Challenge #109: Visualizing 500,000 Subscribers"
+  },
+  {
+    "video_id": "JSn-DJU8qf0",
+    "title": "Coding Challenge #94.1: 2048 - Part 1"
+  },
+  {
+    "video_id": "KakpnfDv_f0",
+    "title": "Coding Challenge #62.1: Plinko with Matter.js Part 1"
+  },
+  {
+    "video_id": "ZjVyKXp9hec",
+    "title": "Coding Challenge #32.2: Agar.io - Part 2 (Networking with Socket.IO and Node.js)"
+  },
+  {
+    "video_id": "UaKab6h9Z0I",
+    "title": "ml5.js: Train a Neural Network with Pixels as Input"
+  },
+  {
+    "video_id": "10st01Z0jxc",
+    "title": "Coding Challenge #64.4: Inverse Kinematics - Multiple"
+  },
+  {
+    "video_id": "GWDx1GnxhOw",
+    "title": "Coding Challenge #84: Word Definition Extension"
+  },
+  {
+    "video_id": "dLp10CFIvxI",
+    "title": "Coding Challenge #104: Linear Regression with TensorFlow.js"
+  },
+  {
+    "video_id": "RPMYV-eb6lI",
+    "title": "Coding Challenge #40.3: TF-IDF"
+  },
+  {
+    "video_id": "0LMNNsxPfJU",
+    "title": "ITP/IMA Winter Show 2019"
+  },
+  {
+    "video_id": "fWqOdLI944M",
+    "title": "6.7: Group Steering Behaviors - The Nature of Code"
+  },
+  {
+    "video_id": "ZvsqQjwrISQ",
+    "title": "15.5: Scheduling Tweets Using setInterval() - Twitter Bot Tutorial"
+  },
+  {
+    "video_id": "KtPpoMThKUs",
+    "title": "Coding Challenge #99: Neural Network Color Predictor"
+  },
+  {
+    "video_id": "8Z9FRiW2Jlc",
+    "title": "Coding Challenge #43: Context-Free Grammar"
+  },
+  {
+    "video_id": "dbs4IYGfAXc",
+    "title": "Coding Challenge #58: 3D Earthquake Data Visualization"
+  },
+  {
+    "video_id": "kRdw-Cm8BZ4",
+    "title": "5.0b: Introduction to Physics Engines Part 2 - The Nature of Code"
+  },
+  {
+    "video_id": "h279eYIROIM",
+    "title": "Machine Learning and the Computer Mouse (from the 2021 Computer Mouse Conference)"
+  },
+  {
+    "video_id": "sor1nwNIP9A",
+    "title": "Live Stream #46: Perlin Noise and Flow Fields"
+  },
+  {
+    "video_id": "1Ec_-wzJCPY",
+    "title": "Coding Challenge #91.3: Snakes &amp; Ladders - Part 3"
+  },
+  {
+    "video_id": "GbHGGYSwVvY",
+    "title": "Live Stream #174: Rubik&#39;s Cube continued..."
+  },
+  {
+    "video_id": "AGR3sfOq2qc",
+    "title": "I have no plan!"
+  },
+  {
+    "video_id": "NEJpeUJWj2Y",
+    "title": "Advent of Code (Side Project Saturday!)"
+  },
+  {
+    "video_id": "wTDDsOZwdQY",
+    "title": "Live Stream #150: Coding for Total Beginners with p5.js + Snake Game Redux"
+  },
+  {
+    "video_id": "kFNZnZe92HA",
+    "title": "Live Stream #175: Rubik&#39;s Cube (this time with matrix transformations!)"
+  },
+  {
+    "video_id": "femdoS4e7OA",
+    "title": "Processing Foundation Holiday Telethon 2020"
+  },
+  {
+    "video_id": "CCstZ9FHd4k",
+    "title": "Coding Train Live!"
+  },
+  {
+    "video_id": "_wC4sn5qKQw",
+    "title": "Live Stream #141: XOR with TensorFlow.js"
+  },
+  {
+    "video_id": "Tb9CRSHtADk",
+    "title": "Side Project Sunday?"
+  },
+  {
+    "video_id": "Az0l48Jirdg",
+    "title": "Winter Show 2020 (ITP/IMA/IMA Low Res)"
+  },
+  {
+    "video_id": "7DG3kCDx53c",
+    "title": "2.1: Introduction to Regular Expressions - Programming with Text"
+  },
+  {
+    "video_id": "AwyoVjVXnLk",
+    "title": "16.12: Promises Part 2 - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "szXbuO3bVRk",
+    "title": "3.2: Linear Regression with Ordinary Least Squares Part 1 - Intelligence and Learning"
+  },
+  {
+    "video_id": "Qt3ZABW5lD0",
+    "title": "6.1: Introduction to TensorFlow.js - Intelligence and Learning"
+  },
+  {
+    "video_id": "6TPVoB4uQCU",
+    "title": "18.2: 3D Geometries - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "JFugGF1URNo",
+    "title": "Coding Challenge #108: Barnsley Fern"
+  },
+  {
+    "video_id": "YTocEnDsMNw",
+    "title": "2.2: Regular Expressions: Meta-characters - Programming with Text"
+  },
+  {
+    "video_id": "KFEvF_ymuzY",
+    "title": "Coding Challenge #65.2: Visualizing a Binary Tree"
+  },
+  {
+    "video_id": "W7S_Vmq0GSs",
+    "title": "2.6: Regular Expressions: test() and match() - Programming with Text"
+  },
+  {
+    "video_id": "vdgiqMkFygc",
+    "title": "4.1: Particle Systems - The Nature of Code"
+  },
+  {
+    "video_id": "QEzRxnuaZCk",
+    "title": "ml5.js: Object Detection with COCO-SSD"
+  },
+  {
+    "video_id": "piBq7VD0ZSo",
+    "title": "Coding Challenge #68.1: Breadth-First Search Part 1"
+  },
+  {
+    "video_id": "L-Lsfu4ab74",
+    "title": "3.4: Linear Regression with Gradient Descent - Intelligence and Learning"
+  },
+  {
+    "video_id": "ZneWjyn18e8",
+    "title": "Hosting a p5.js sketch with GitHub Pages"
+  },
+  {
+    "video_id": "O5wjXoFrau4",
+    "title": "3.4 Polar Coordinates - The Nature of Code"
+  },
+  {
+    "video_id": "DGxIcDjPzac",
+    "title": "10.3: Neural Networks: Perceptron Part 2 - The Nature of Code"
+  },
+  {
+    "video_id": "C3EwsSNJeOE",
+    "title": "7.2: Context-Free Grammar with Tracery - Programming with Text"
+  },
+  {
+    "video_id": "jEwAMgcCgOA",
+    "title": "17.9: Sound Visualization: Graphing Amplitude - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "6vX8wT1G798",
+    "title": "I.0: Introduction - The Nature of Code"
+  },
+  {
+    "video_id": "4zr8j-jeU_M",
+    "title": "8.6: API Front End Client - Programming with Text"
+  },
+  {
+    "video_id": "jwRT4PCT6RU",
+    "title": "Coding Challenge 51.3: A* Pathfinding Algorithm - Part 3"
+  },
+  {
+    "video_id": "6s4MJcUyaUE",
+    "title": "Coding Challenge #62.2: Plinko with Matter.js Part 2"
+  },
+  {
+    "video_id": "m463X1cqV6s",
+    "title": "3.5 Simple Harmonic Motion - Nature of Code"
+  },
+  {
+    "video_id": "M3KTWnTrU_c",
+    "title": "Coding Challenge #35.4: Traveling Salesperson with Genetic Algorithm"
+  },
+  {
+    "video_id": "QLHMtE5XsMs",
+    "title": "11.6: Computer Vision: Motion Detection - Processing Tutorial"
+  },
+  {
+    "video_id": "RxTfc4JLYKs",
+    "title": "9.2: Genetic Algorithm: How it works - The Nature of Code"
+  },
+  {
+    "video_id": "IoKfQrlQ7rA",
+    "title": "6.8: Combining Steering Behaviors: Flocking - The Nature of Code"
+  },
+  {
+    "video_id": "ZiYdOwOrGyc",
+    "title": "Coding Challenge #57: Mapping Earthquake Data"
+  },
+  {
+    "video_id": "fML1KpvvQTc",
+    "title": "2.6: Gravitational Attraction - The Nature of Code"
+  },
+  {
+    "video_id": "X0kjv0MozuY",
+    "title": "Coding Challenge #103: Fire Effect"
+  },
+  {
+    "video_id": "s6b1_3bNCxk",
+    "title": "1.3: Vector Math - The Nature of Code"
+  },
+  {
+    "video_id": "HsDVz2_Qgow",
+    "title": "8.6: Other Events and Inputs - p5.js Tutorial"
+  },
+  {
+    "video_id": "7a-a6lKoyIQ",
+    "title": "2.9: Regular Expressions: replace() - Programming with Text"
+  },
+  {
+    "video_id": "IIrC5Qcb2G4",
+    "title": "Coding Challenge #67: Pong!"
+  },
+  {
+    "video_id": "S1TQCi9axzg",
+    "title": "Guest Tutorial #4: Matrix Digital Rain in p5.js with Emily Xie"
+  },
+  {
+    "video_id": "6l6b78Y4V7Y",
+    "title": "9.x: Genetic Algorithms and Evolutionary Computing - The Nature of Code"
+  },
+  {
+    "video_id": "cl-mHFCGzYk",
+    "title": "Coding Challenge #88: Snowfall"
+  },
+  {
+    "video_id": "tbvG9hrJxOU",
+    "title": "Coding Challenge #97.1: The Book of Pi - Part 1"
+  },
+  {
+    "video_id": "JrRO3OnWs5s",
+    "title": "Coding Challenge #91.1: Snakes &amp; Ladders - Part 1"
+  },
+  {
+    "video_id": "tlqinMNM4xs",
+    "title": "10.18: Neural Networks: Backpropagation Part 5 - The Nature of Code"
+  },
+  {
+    "video_id": "rQroxWLZiCo",
+    "title": "Introduction to D3.js with Shirley Wu"
+  },
+  {
+    "video_id": "lz2L-sT8bG0",
+    "title": "7.12: TensorFlow.js Color Classifier: Prediction"
+  },
+  {
+    "video_id": "clzTwZgMlqE",
+    "title": "Linting with ESLint"
+  },
+  {
+    "video_id": "-6iIc6-Y-kk",
+    "title": "Live Stream #177: 2D Ray Casting and Ray Marching"
+  },
+  {
+    "video_id": "5kEPixL8JoU",
+    "title": "Guest Tutorial #5: Brick Breaker with Yining Shi"
+  },
+  {
+    "video_id": "3z9d3tqVRyc",
+    "title": "The Coding Train at Home"
+  },
+  {
+    "video_id": "wKGKYAnlyRQ",
+    "title": "Coding Train Late Night 1"
+  },
+  {
+    "video_id": "W3W7OQmanJw",
+    "title": "The Coding Train: Live from the Attic 2!"
+  },
+  {
+    "video_id": "2Oz_d2q7GQQ",
+    "title": "2021 Choo Choo!"
+  },
+  {
+    "video_id": "0d3sE-1en_Y",
+    "title": "Saturday Morning Choo Choo"
+  },
+  {
+    "video_id": "Z3n1mLirnww",
+    "title": "Coding Train Live! (Preparing for Computer Mouse Conference)"
+  },
+  {
+    "video_id": "bNaqGBeXbN8",
+    "title": "Coding Train Live!"
+  },
+  {
+    "video_id": "WVZ653QYjvQ",
+    "title": "Live Stream #140: Polynomial Regression + TensorFlow.js layers API"
+  },
+  {
+    "video_id": "VIEwBm7PWQM",
+    "title": "Indie Game Development with Jane Friedhoff"
+  },
+  {
+    "video_id": "5S87w8IqSHI",
+    "title": "Live Stream #185: RDP Algorithm"
+  },
+  {
+    "video_id": "Adk4LjmYyYg",
+    "title": "Live Stream #152: Lissajous Curve Table"
+  },
+  {
+    "video_id": "aehDnO_EU1A",
+    "title": "Side Project Saturday!"
+  },
+  {
+    "video_id": "1v_E18xU3ok",
+    "title": "Live Stream #116.2 - Snakes &amp; Ladders Continued + 2048"
+  },
+  {
+    "video_id": "QmVNgdapJJM",
+    "title": "12.1: What is the Kinect? - Kinect and Processing Tutorial"
+  },
+  {
+    "video_id": "G2hI9XL6oyk",
+    "title": "Tutorial: How to render Processing sketch as a movie"
+  },
+  {
+    "video_id": "BAejnwN4Ccw",
+    "title": "Coding Challenge #35.1: Traveling Salesperson"
+  },
+  {
+    "video_id": "0L2n8Tg2FwI",
+    "title": "Coding Challenge #90: Floyd-Steinberg Dithering"
+  },
+  {
+    "video_id": "aKYlikFAV4k",
+    "title": "Coding Challenge 51.1: A* Pathfinding Algorithm - Part 1"
+  },
+  {
+    "video_id": "XXEK3UEDDIg",
+    "title": "6.4: Steering Behaviors: Flow FIeld Following - The Nature of Code"
+  },
+  {
+    "video_id": "JUDYkxU6J0o",
+    "title": "Coding Challenge #47: Pixel Sorting in Processing"
+  },
+  {
+    "video_id": "xXjRlEr7AGk",
+    "title": "Coding Challenge #64.1: Forward Kinematics"
+  },
+  {
+    "video_id": "ZNH0MuQ51m4",
+    "title": "Coding Challenge #65.1: Binary Search Tree"
+  },
+  {
+    "video_id": "XATr_jdh-44",
+    "title": "9.8: Random Circles with No Overlap - p5.js Tutorial"
+  },
+  {
+    "video_id": "wB1pcXtEwIs",
+    "title": "5.0a: Introduction to Physics Engines Part 1 - The Nature of Code"
+  },
+  {
+    "video_id": "oXwCVDXS2Lg",
+    "title": "3.3: Angles and Vectors - Nature of Code"
+  },
+  {
+    "video_id": "kP-UmHrxCYk",
+    "title": "11.6: Chrome Extensions: Pop-ups Messaging - Programming with Text"
+  },
+  {
+    "video_id": "2qGsBClh3hE",
+    "title": "6.6: Steering Behaviors: Path Following - The Nature of Code"
+  },
+  {
+    "video_id": "iUiOx2fBx18",
+    "title": "6.6: TensorFlow.js: Layers API Part 2 - Intelligence and Learning"
+  },
+  {
+    "video_id": "nYCvdtZGveg",
+    "title": "12.5: Closest or Highest Point Tracking - Kinect and Processing Tutorial"
+  },
+  {
+    "video_id": "W-ou_sVlTWk",
+    "title": "5.21: Matter.js: Mouse Constraints - The Nature of Code"
+  },
+  {
+    "video_id": "aKiyCeIuwn4",
+    "title": "Coding Challenge #41: Clappy Bird!"
+  },
+  {
+    "video_id": "BxabnKrOjT0",
+    "title": "9.9: Minimum Spanning Tree (Prim&#39;s Algorithm) - p5.js Tutorial"
+  },
+  {
+    "video_id": "YvNiLmHXZ_U",
+    "title": "2.5: Drag Force - The Nature of Code"
+  },
+  {
+    "video_id": "mvgcNOX8JGQ",
+    "title": "Guest Tutorial #7: Circle Morphing with Golan Levin"
+  },
+  {
+    "video_id": "r0lvsMPGEoY",
+    "title": "11.9: Computer Vision: Blob Tracking with Persistence - Processing Tutorial"
+  },
+  {
+    "video_id": "mXDrH0wStHs",
+    "title": "Live Stream #178: Neuroevolution Steering Vehicles"
+  },
+  {
+    "video_id": "6Uy1SifiBig",
+    "title": "The Coding Train Morning Show: Marching Squares and Flocking Mewchoo"
+  },
+  {
+    "video_id": "tWyp2OWWcws",
+    "title": "Live Stream #176: Simple 2D Black Hole Simulation and NeuroEvolution with TensorFlow.js"
+  },
+  {
+    "video_id": "3njRN7xM7C0",
+    "title": "Spring Show 2021 in SpatialChat (ITP/IMA/IMA Low Res)"
+  },
+  {
+    "video_id": "lyzEXE7Rypk",
+    "title": "Nature of Code Continued: Chapter 2, Forces!"
+  },
+  {
+    "video_id": "yzOW08JHL1U",
+    "title": "The Coding Train: revisiting ml5.js!"
+  },
+  {
+    "video_id": "VV1JmMYceJw",
+    "title": "Coding Challenge #44.2: AFINN-111 Sentiment Analysis - Part 2"
+  },
+  {
+    "video_id": "HZWmrt3Jy10",
+    "title": "12.3: Connecting Client to Server with Socket.io - WebSockets and p5.js Tutorial"
+  },
+  {
+    "video_id": "587qclhguQg",
+    "title": "8.5: Interacting with the DOM using Sliders, Buttons and Text Inputs - p5.js Tutorial"
+  },
+  {
+    "video_id": "eGFJ8vugIWA",
+    "title": "Coding Challenge #42.1: Markov Chains - Part 1"
+  },
+  {
+    "video_id": "lIPEvh8HbGQ",
+    "title": "3.1: The RiTa.js Library - Programming with Text"
+  },
+  {
+    "video_id": "kKT0v3qhIQY",
+    "title": "Coding Challenge #17: Fractal Trees - Space Colonization"
+  },
+  {
+    "video_id": "uHusbFmq-4I",
+    "title": "1.4: Vector Math II - The Nature of Code"
+  },
+  {
+    "video_id": "8k-zyUyuvlM",
+    "title": "Discord Bots 3: Coding a Bot with discord.js"
+  },
+  {
+    "video_id": "188B6k_F9jU",
+    "title": "Coding Challenge #92: XOR Problem"
+  },
+  {
+    "video_id": "0dwJ-bkJwDI",
+    "title": "Coding Challenge #61: Fractal Spirograph"
+  },
+  {
+    "video_id": "iN3WAko2rL8",
+    "title": "Guest Tutorial #9: Color Predictor with Jabril"
+  },
+  {
+    "video_id": "jlK1SJr-FBc",
+    "title": "Coding Train Live!"
+  },
+  {
+    "video_id": "hhUJfk61EBI",
+    "title": "Saturday Side Project Spooktacular!"
+  },
+  {
+    "video_id": "ORwIZCKJA-Q",
+    "title": "Live Stream #135: May 4th Challenge + TensorFlow.js Continued"
+  },
+  {
+    "video_id": "rqecAdEGW6I",
+    "title": "I.1: Random Walker - The Nature of Code"
+  },
+  {
+    "video_id": "RPz75gcHj18",
+    "title": "Coding Challenge #75: Wikipedia API"
+  },
+  {
+    "video_id": "ovOtQxLwSzQ",
+    "title": "15.7: A Bot That Replies - Twitter Bot Tutorial"
+  },
+  {
+    "video_id": "VWfXiSUDquw",
+    "title": "Guest Tutorial #3: Spring Animations and p5.js with Val Head"
+  },
+  {
+    "video_id": "yRxWa8lXasI",
+    "title": "Guest Tutorial #2: Web Animations and Mo.js with Sarah Drasner"
+  },
+  {
+    "video_id": "6dMRzNaNQz0",
+    "title": "Side Project Saturday!"
+  },
+  {
+    "video_id": "w1Np5meK4_Q",
+    "title": "Live Stream #130: Color Predictor and Quadtree Continued"
+  },
+  {
+    "video_id": "urR596FsU68",
+    "title": "5.17: Introduction to Matter.js - The Nature of Code"
+  },
+  {
+    "video_id": "6p_JM-I7FUg",
+    "title": "The Coding Train Morning Show: Exploring the YouTube API"
+  },
+  {
+    "video_id": "8H2ODPNxEgA",
+    "title": "10.16: Neural Networks: Backpropagation Part 3 - The Nature of Code"
+  },
+  {
+    "video_id": "9P1rB2MY4ZA",
+    "title": "Discord Bots 5: Posting GIFs"
+  },
+  {
+    "video_id": "NtKNT-qWUBA",
+    "title": "Integration Test Stream #1"
+  },
+  {
+    "video_id": "931bqqpQqvI",
+    "title": "MoveNet vs. PoseNet? (Coding Train Live!)"
+  },
+  {
+    "video_id": "P_xJMH8VvAE",
+    "title": "5.1 Autonomous Steering Agents Introduction - The Nature of Code"
+  },
+  {
+    "video_id": "Rwsi-QCWjGE",
+    "title": "The mouse sees: A collaborative zine for the Computer Mouse Conference (Night 2)"
+  },
+  {
+    "video_id": "4vhzFc-sDMQ",
+    "title": "Guest Conductor: Live Coding with Antonio Roberts"
+  },
+  {
+    "video_id": "SElUoH1jE3M",
+    "title": "Coding Train Live!"
+  },
+  {
+    "video_id": "dpqNqyQCcbY",
+    "title": "Coding Train Live!"
+  },
+  {
+    "video_id": "2dCwK4dgcg0",
+    "title": "Coding Train Live!"
+  },
+  {
+    "video_id": "G2Yns7NUSq4",
+    "title": "Discord Bots 4: Hiding API Keys with .env"
+  },
+  {
+    "video_id": "7CPXb96QGZI",
+    "title": "Side Project Saturday! (Live from the Attic)"
+  },
+  {
+    "video_id": "pbXxWPvcIrw",
+    "title": "Side Project Saturday! (Live from the Attic)"
+  },
+  {
+    "video_id": "wcAni_ysbzc",
+    "title": "The Coding Train Morning Show: Live from the Attic!"
+  },
+  {
+    "video_id": "cEGMAu2CMRc",
+    "title": "Guest Conductor: Cozy Coding"
+  },
+  {
+    "video_id": "0LZUSkwCYfU",
+    "title": "Coding Train Late Night 2: Fetch, GPT-2 and RunwayML"
+  },
+  {
+    "video_id": "AkySW5uy7rU",
+    "title": "Searching for Digits in Pi"
+  },
+  {
+    "video_id": "2Fk2-efjkNM",
+    "title": "Nature of Code Continued: Chapter 2, Forces!"
+  },
+  {
+    "video_id": "6FmmF5ncYxI",
+    "title": "Nature of Code Reboot: Vectors!"
+  },
+  {
+    "video_id": "EnblyAdZG8U",
+    "title": "Convolutional Neural Networks with ml5.js"
+  },
+  {
+    "video_id": "elopevHlEH0",
+    "title": "Happy 2020!"
+  },
+  {
+    "video_id": "11M3RLmayz8",
+    "title": "Live Stream Archive: ITP Winter Show 2019"
+  },
+  {
+    "video_id": "y1DEVfPpEQw",
+    "title": "Classifying Poses with ml5.js"
+  },
+  {
+    "video_id": "SGtT10OdGjA",
+    "title": "D3.js Cont'd with Shirley Wu"
+  },
+  {
+    "video_id": "GMaKcRkiNoM",
+    "title": "Live Stream #186: Interactive Drawing with SketchRNN"
+  },
+  {
+    "video_id": "1b9-O7pnUcg",
+    "title": "Live Stream #183: Brooklyn Studio, ml5.js Pitch Detection"
+  },
+  {
+    "video_id": "QzRW0xzm10c",
+    "title": "Live Stream #182: Introduction to RunwayML"
+  },
+  {
+    "video_id": "Y6cMTh2BODY",
+    "title": "Live Stream #181: Processing Library + Tic Tac Toe"
+  },
+  {
+    "video_id": "XeorqDUubKI",
+    "title": "Live Stream Archive: ITP IMA Spring Show 2019"
+  },
+  {
+    "video_id": "277611ExU9A",
+    "title": "Live Stream #173: Rubik's Cube and Quicksort Visualization"
+  },
+  {
+    "video_id": "78ZthTGcdPw",
+    "title": "Live Stream #172: Happy Pi Day!"
+  },
+  {
+    "video_id": "O6dsGXhD0sc",
+    "title": "Live Stream #170: 4D OpenSimplexNoise Loops and ES6 Inheritance"
+  },
+  {
+    "video_id": "7k-iJyHq7-k",
+    "title": "Live Stream #169: Perlin Noise Loops + JS Inheritance"
+  },
+  {
+    "video_id": "_LyC2l8g0R8",
+    "title": "Live Stream #167: Bouncing DVD Logo + Fluid Simulation"
+  },
+  {
+    "video_id": "mZFVOmQ_WGM",
+    "title": "Live Stream #166.2: Finish KNN Example"
+  },
+  {
+    "video_id": "0b3R8oWffkw",
+    "title": "Live Stream #165: Drawing with Fourier Transform"
+  },
+  {
+    "video_id": "WACLmPBxMaw",
+    "title": "Processing Foundation Holiday Telethon 2018"
+  },
+  {
+    "video_id": "pKyU92cza0Y",
+    "title": "Live Stream #163: Toothpicks and Fourier Series"
+  },
+  {
+    "video_id": "EA3-k9mnLHs",
+    "title": "Hour of Code with p5.js and PoseNet"
+  },
+  {
+    "video_id": "OvpbTeAYQEU",
+    "title": "Guest: Fun Fun Train with MPJ from Fun Fun Function"
+  },
+  {
+    "video_id": "v8lm5XZ2V6M",
+    "title": "Live Stream #161: Chaos Game & Quick, Draw! API"
+  },
+  {
+    "video_id": "kLIHhOEPHG0",
+    "title": "Live Stream #159: Logo Interpreter Continued"
+  },
+  {
+    "video_id": "U220GvNu1TY",
+    "title": "Cognimates with Stefania Druga"
+  },
+  {
+    "video_id": "jSzmac4Rri8",
+    "title": "Live Stream #157: Binary Numbers & Bit Shifting"
+  },
+  {
+    "video_id": "rkwn-7kZzjY",
+    "title": "Live Stream #155: Mastodon Image Bot with Processing"
+  },
+  {
+    "video_id": "tOJTDt1EtFU",
+    "title": "Live Stream #154: Quick p5 web editor tutorials"
+  },
+  {
+    "video_id": "M_YNwb7UudI",
+    "title": "Live Stream #148.2: 4D Hypercube"
+  },
+  {
+    "video_id": "Sz52VkVcW5o",
+    "title": "Live Stream #147: A Beginners Guide to Machine Learning with ml5.js"
+  },
+  {
+    "video_id": "XXwjcxMOA8s",
+    "title": "Live Stream #146: Recamán's Sequence + ml5 Image Classifier"
+  },
+  {
+    "video_id": "SyEZ5Yo2ec8",
+    "title": "7.10: TensorFlow.js Color Classifier: Training the Model"
+  },
+  {
+    "video_id": "hCT0qFtLdS8",
+    "title": "7.8: TensorFlow.js Color Classifier: Building the Model"
+  },
+  {
+    "video_id": "rw_LVFpIzJg",
+    "title": "7.6: TensorFlow.js Color Classifier: Training Data Tensors (inputs)"
+  },
+  {
+    "video_id": "gsJvZjlfNko",
+    "title": "Live Stream #145: TensorFlow.js Color Classifier Continued"
+  },
+  {
+    "video_id": "y59-frfKR58",
+    "title": "7.1: TensorFlow.js Color Classifier: Crowdsourcing Data"
+  },
+  {
+    "video_id": "UI5c1te1MjI",
+    "title": "Live Stream #144: Map Visualization of 500k Subscribers!"
+  },
+  {
+    "video_id": "diGjw5tghYU",
+    "title": "Coding Challenge #107: Sandpiles"
+  },
+  {
+    "video_id": "N3ZnNa01BPM",
+    "title": "Coding Challenge #106: XOR Problem with TensorFlow.js"
+  },
+  {
+    "video_id": "tIXDik5SGsI",
+    "title": "Coding Challenge #105: Polynomial Regression with TensorFlow.js"
+  },
+  {
+    "video_id": "mETDQDBwOi0",
+    "title": "Live Stream #137.2: Promises in JavaScript - Part 2"
+  },
+  {
+    "video_id": "PAmwKVCsg54",
+    "title": "Live Stream #136: More Tensorflow.js + Fire Effect Challenge"
+  },
+  {
+    "video_id": "KzWF_wzx9PU",
+    "title": "6.3: TensorFlow.js: Variables & Operations - Intelligence and Learning"
+  },
+  {
+    "video_id": "fUkF-YLLXeg",
+    "title": "Coding Challenge #101: May the 4th Scrolling Text"
+  },
+  {
+    "video_id": "U9wiMM3BqLU",
+    "title": "Coding Challenge #100.5: Neuroevolution Flappy Bird - Part 5"
+  },
+  {
+    "video_id": "emjv5tr-m7Q",
+    "title": "Live Stream #133: Neuroevolution Flappy Bird Continued"
+  },
+  {
+    "video_id": "YtRA6tqgJBc",
+    "title": "Coding Challenge #100.2: Neuroevolution Flappy Bird - Part 2"
+  },
+  {
+    "video_id": "ipMekhLS2M0",
+    "title": "Live Stream #132: Neuroevolution Flappy Bird & p5.js in Spanish"
+  },
+  {
+    "video_id": "T9kOFSFvgKc",
+    "title": "Guest Tutorial #8: Phaser Game Development with Catt Small"
+  },
+  {
+    "video_id": "DvS4h-1Eyu4",
+    "title": "Guest: John Henry Thompson"
+  },
+  {
+    "video_id": "O8EsAVFtDJc",
+    "title": "Live Stream #127: Phaser Game Development with Catt Small"
+  },
+  {
+    "video_id": "BOk4Dl-gw14",
+    "title": "Live Stream #126.1: Happy Pi Day! - Part 1"
+  },
+  {
+    "video_id": "Io7TWc8LbAk",
+    "title": "Live Stream #125: loadBytes p5.js Pull Request"
+  },
+  {
+    "video_id": "sIeN74GrYHE",
+    "title": "Live Stream #124.1 - Linting and Neuroevolution - Part 1"
+  },
+  {
+    "video_id": "_IyfxsQ5FX0",
+    "title": "5.5: Doodle Classifier: Testing - Intelligence and Learning"
+  },
+  {
+    "video_id": "wMe6qcpD8jI",
+    "title": "5.3: Doodle Classifier: Prepping Data in p5.js - Intelligence and Learning"
+  },
+  {
+    "video_id": "pqY_Tn2SIVA",
+    "title": "5.1: Doodle Classifier: Introduction - Intelligence and Learning"
+  },
+  {
+    "video_id": "lN6Lqva6OGg",
+    "title": "Live Stream #123.1: Doodle Classifier - Part 1"
+  },
+  {
+    "video_id": "3iYvT8TBIro",
+    "title": "Coding Challenge #94.3: 2048 - Part 3"
+  },
+  {
+    "video_id": "ze_o4YvZ6-s",
+    "title": "Live Stream #122: filter(), sort() and 2048"
+  },
+  {
+    "video_id": "qB2nwJxNVxM",
+    "title": "10.17: Neural Networks: Backpropagation Part 4 - The Nature of Code"
+  },
+  {
+    "video_id": "arrIMSmPTMc",
+    "title": "Live Stream #117.2 - Unit Testing and CI with CircleCI - Part 2"
+  },
+  {
+    "video_id": "wN5Is0DjW8w",
+    "title": "Coding Challenge #91.2: Snakes & Ladders - Part 2"
+  },
+  {
+    "video_id": "r2-P1Fi1g60",
+    "title": "10.15: Neural Networks: Backpropagation Part 2 - The Nature of Code"
+  },
+  {
+    "video_id": "XHj52k75PYo",
+    "title": "Live Stream #115 - Backpropagation"
+  },
+  {
+    "video_id": "HuZbYEn8AvY",
+    "title": "10.11: Neural Networks: Matrix Class Improvements - The Nature of Code"
+  },
+  {
+    "video_id": "hSHUojJaiYE",
+    "title": "Reporting a WebGL Bug for p5.js"
+  },
+  {
+    "video_id": "NgZAIkDcPkI",
+    "title": "10.9: Neural Networks: Matrix Math Part 3 - The Nature of Code"
+  },
+  {
+    "video_id": "raFdpMUWO9Q",
+    "title": "Live Stream #113: The Return of Neural Networks"
+  },
+  {
+    "video_id": "FUI7HEEz9B0",
+    "title": "18.7: Loading OBJ Model - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "4KBk_QYLIyI",
+    "title": "The Coding Train - Processing Community Day 2017"
+  },
+  {
+    "video_id": "BW3D9WwalQE",
+    "title": "18.5: Camera and Perspective - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "dEWmwQMKgIk",
+    "title": "Live Stream #112: Happy Holidays from the Coding Train!"
+  },
+  {
+    "video_id": "r6YMKr1X0VA",
+    "title": "Coding Challenge #87: 3D Knots"
+  },
+  {
+    "video_id": "Xiu8pbHtrEY",
+    "title": "Live Stream #111: More WebGL with p5.js!"
+  },
+  {
+    "video_id": "Gi9PuLHlzzI",
+    "title": "Live Stream #109: WebGL with p5.js"
+  },
+  {
+    "video_id": "RJtjp-Vtwjs",
+    "title": "11.8: Cross-Browser Extensions - Programming with Text"
+  },
+  {
+    "video_id": "IXXNIcQQLU8",
+    "title": "Coding Challenge #83: Chrome Extension with p5.js Sketch"
+  },
+  {
+    "video_id": "8zMMOdI5SOk",
+    "title": "Coding Challenge #82: Image Chrome Extension: The Ex-Kitten-sion!"
+  },
+  {
+    "video_id": "Z9pzHD2g0Ao",
+    "title": "Live Stream #106.1: Chrome Extensions - Part 1"
+  },
+  {
+    "video_id": "u2D4sxh3MTs",
+    "title": "Coding Challenge #81.1: Circle Morphing - Part 1"
+  },
+  {
+    "video_id": "ldx_J589fcs",
+    "title": "Live Stream #105: p5.js Workflow, Circle Morphing and Arrow Function"
+  },
+  {
+    "video_id": "iFTgphKCP9U",
+    "title": "Coding Challenge #80: Voice Chatbot with p5.Speech"
+  },
+  {
+    "video_id": "v0CHV33wDsI",
+    "title": "10.3: Text-to-Speech with p5.Speech - Programming with Text"
+  },
+  {
+    "video_id": "zGe1m_bLOFk",
+    "title": "Coding Challenge #79: Number Guessing Chatbot"
+  },
+  {
+    "video_id": "Ad4mEinpNSM",
+    "title": "Update on Machine Learning Video Series"
+  },
+  {
+    "video_id": "-RvrDZd1xVw",
+    "title": "Live Stream #102: Intro to ES6 Classes - OOP in JavaScript"
+  },
+  {
+    "video_id": "LdWleSHQTcw",
+    "title": "9.21: p5-manager - p5.js Tutorial"
+  },
+  {
+    "video_id": "bWti0vTbgKU",
+    "title": "Live Stream #101.1: \"let\" vs \"var\", \"const\", 10 PRINT,  Wikipedia API & more! - Part 1"
+  },
+  {
+    "video_id": "BcbS0MR3vxQ",
+    "title": "Live Stream #100.2: Transformations and Clocks with p5.js - Part 2"
+  },
+  {
+    "video_id": "jwoK5WKVXGw",
+    "title": "Coding Challenge #73: Acrostic"
+  },
+  {
+    "video_id": "TwMfCM9YZHk",
+    "title": "Code Dictation Experiments and Bike Accident Update"
+  },
+  {
+    "video_id": "n6q9D2wd1bE",
+    "title": "10.7: Neural Networks: Matrix Math Part 2 - The Nature of Code"
+  },
+  {
+    "video_id": "cmffV5rMSEU",
+    "title": "Live Stream #98: Starting Series on Neural Networks"
+  },
+  {
+    "video_id": "hk326ZHlENQ",
+    "title": "Coding Challenge #72.3: Frogger - Part 3"
+  },
+  {
+    "video_id": "giXV6xErw0Y",
+    "title": "Coding Challenge #72.1: Frogger - Part 1"
+  },
+  {
+    "video_id": "7BdfPG3peP4",
+    "title": "Live Stream #96: Frogger"
+  },
+  {
+    "video_id": "M9wEM0UKFks",
+    "title": "Live Stream #95: End of Session 3 + Start of Session 4 of \"Intelligence and Learning\""
+  },
+  {
+    "video_id": "S6NQFDZkRMo",
+    "title": "Live Stream #94: Session 3 of “Intelligence and Learning” - Part 3"
+  },
+  {
+    "video_id": "Q_SbbqpoMnM",
+    "title": "ITP Spring Show 2017"
+  },
+  {
+    "video_id": "zxR7KfVMGqk",
+    "title": "Live Stream #92: Minesweeper"
+  },
+  {
+    "video_id": "Lo89NLmSgl0",
+    "title": "Coding Challenge #70.2: Nearest Neighbors Recommendation Engine - Part 2"
+  },
+  {
+    "video_id": "Do_Gftp_oug",
+    "title": "Live Stream #91: Session 3 of “Intelligence and Learning”"
+  },
+  {
+    "video_id": "c8gZguZWYik",
+    "title": "2.1: Introduction to Session 2 - Intelligence and Learning"
+  },
+  {
+    "video_id": "hnxn6DtLYcY",
+    "title": "Coding Challenge #35.5: TSP with Genetic Algorithm and Crossover"
+  },
+  {
+    "video_id": "VnFF5V5DS8s",
+    "title": "Coding Challenge #69.5: Evolutionary Steering Behaviors - Part 5 (Bonus)"
+  },
+  {
+    "video_id": "vZUWTlK7D2Q",
+    "title": "Coding Challenge #69.3: Evolutionary Steering Behaviors - Part 3"
+  },
+  {
+    "video_id": "flxOkx0yLrY",
+    "title": "Coding Challenge #69.1: Evolutionary Steering Behaviors - Part 1"
+  },
+  {
+    "video_id": "-he67EEM6z0",
+    "title": "Coding Challenge #68.2: Breadth-First Search Part 2"
+  },
+  {
+    "video_id": "sPEEV8Xih20",
+    "title": "Introduction to \"Intelligence and Learning\""
+  },
+  {
+    "video_id": "AzVr_nsKoZs",
+    "title": "Your Perfect Tech Talk with Saron Yitbarek"
+  },
+  {
+    "video_id": "RbpIAxb_LYg",
+    "title": "Live Stream #87.2: Intro to \"Intelligence and Learning\" Class - Part 2"
+  },
+  {
+    "video_id": "N633bLi_YCw",
+    "title": "9.20: Polar Coordinates - p5.js Tutorial"
+  },
+  {
+    "video_id": "JunJzIe0hEo",
+    "title": "Coding Challenge #63.1: Texturing Cloth Simulation Part 1"
+  },
+  {
+    "video_id": "xtFu66DZrBw",
+    "title": "Live Stream #86: More Inverse Kinematics + Texturing Cloth Simulation"
+  },
+  {
+    "video_id": "jN-sW-SxNzk",
+    "title": "Coding Challenge #62.3: Plinko with Matter.js Part 3"
+  },
+  {
+    "video_id": "szztTszPp-8",
+    "title": "5.20: Matter.js: Constraints - The Nature of Code"
+  },
+  {
+    "video_id": "uITcoKpbQq4",
+    "title": "5.18: Introduction to Matter.js Continued - The Nature of Code"
+  },
+  {
+    "video_id": "BOAMGfGO6Xs",
+    "title": "Live Stream #83: More Matter.js"
+  },
+  {
+    "video_id": "O_0fRV4MTZo",
+    "title": "Coding Challenge #60: Butterfly Generator"
+  },
+  {
+    "video_id": "bMOv5vTC9uE",
+    "title": "Live Stream #80: Prototypes in Javascript and Butterfly Wings Generator"
+  },
+  {
+    "video_id": "lobJ9gzbLo8",
+    "title": "Coding Challenge #54.2: Star Patterns Update: Law of Sines"
+  },
+  {
+    "video_id": "qTxPqMI69aM",
+    "title": "Live Stream #77: Earthquake Data Visualization and more on Star Patterns"
+  },
+  {
+    "video_id": "OAcXnzRNiCY",
+    "title": "Coding Challenge #56: Attraction and Repulsion Forces"
+  },
+  {
+    "video_id": "OkkjlHTdLGI",
+    "title": "Live Stream #76: Attractors, Algorithmic Roses and p5.js Coding Setups"
+  },
+  {
+    "video_id": "hCjTKCb2Cuw",
+    "title": "Live Stream #75: Islamic Star Patterns"
+  },
+  {
+    "video_id": "mrAeK43YDgw",
+    "title": "Live Stream #74: Processing, p5.js and more Random Walks"
+  },
+  {
+    "video_id": "S4yQYiAECnM",
+    "title": "Live Stream #72: A* Pathfinding Algorithm"
+  },
+  {
+    "video_id": "UrznYJltZrU",
+    "title": "Coding Challenge #48: White House Social Media Data Visualization"
+  },
+  {
+    "video_id": "Snv_TNrKnIU",
+    "title": "ITP Winter Show 2016"
+  },
+  {
+    "video_id": "hacZU523FyM",
+    "title": "Coding Challenge #46.1: Asteroids with p5.js - Part 1"
+  },
+  {
+    "video_id": "RUSvMxxm_Jo",
+    "title": "Coding Challenge #45: Saving p5.js Drawings to Firebase"
+  },
+  {
+    "video_id": "7lEU1UEw3YI",
+    "title": "9.2: Firebase: Saving Data - Programming with Text"
+  },
+  {
+    "video_id": "HWt2a72IZbw",
+    "title": "Live Stream #69.2: Session 9 - Programming from A to Z - Part 2"
+  },
+  {
+    "video_id": "05w159cyneY",
+    "title": "Computer Mouse Conference Demos! (node.js + tensorflow.js)"
+  },
+  {
+    "video_id": "4EOUgfZ-JUE",
+    "title": "Guest Conductor: Twirling Tech Goddess"
+  },
+  {
+    "video_id": "i2ROE_mAhU0",
+    "title": "3.2 Angular Motion - Nature of Code"
+  },
+  {
+    "video_id": "py9HMzrdpTI",
+    "title": "Side Project Saturday!"
+  },
+  {
+    "video_id": "gg7lPyFQau4",
+    "title": "Side Project Saturday! (Live from the Attic)"
+  },
+  {
+    "video_id": "kWsDL-6D-nk",
+    "title": "Coding Train Late Night 3: GPT-2, Hue Lights, Discord Bot"
+  },
+  {
+    "video_id": "3vedfD0UTlM",
+    "title": "The Coding Train at Home (Kids Teach me Scratch!)"
+  },
+  {
+    "video_id": "lRDC_5qExlM",
+    "title": "Nature of Code Continued: Forces!"
+  },
+  {
+    "video_id": "-dcKKrDgG3U",
+    "title": "Classifying Poses with ml5.js Part 2"
+  },
+  {
+    "video_id": "rv98KUFtF9U",
+    "title": "Tic Tac Toe AI with Minimax"
+  },
+  {
+    "video_id": "HhceJ5xxl-4",
+    "title": "Live Stream #187: Fractal #TeamTrees with Physics"
+  },
+  {
+    "video_id": "eRy3j1Alzko",
+    "title": "Live Stream #179: Chrome Dinosaur Game + ml5 Speech Commands Model"
+  },
+  {
+    "video_id": "PIeKyP97EUc",
+    "title": "Autonomous Stream: 12 hours approximating 10 digits of Pi with the Mandelbrot Set"
+  },
+  {
+    "video_id": "yEYgXP04GpI",
+    "title": "Live Stream #164: Live from Le Tank Paris"
+  },
+  {
+    "video_id": "fnoOFQK3tPQ",
+    "title": "Live Stream #160: ml5 Load/Save + Quick, Draw!"
+  },
+  {
+    "video_id": "flHxQpyiDNc",
+    "title": "Live Stream #158: Logo Interpreter"
+  },
+  {
+    "video_id": "KtcC0T1w3pc",
+    "title": "Live Stream #151: 2018 Workflow (VSC, iTerm, zsh, etc.)"
+  },
+  {
+    "video_id": "mfOL2RIyk2c",
+    "title": "Live Stream #149: More ml5.js"
+  },
+  {
+    "video_id": "pYnaBQgnARQ",
+    "title": "Coding Challenge #110.2: Recamán's Sequence - Part 2 (Audio)"
+  },
+  {
+    "video_id": "r0QvaEra0og",
+    "title": "7.9: TensorFlow.js Color Classifier: Softmax and Cross Entropy"
+  },
+  {
+    "video_id": "XZgaLBb4tQM",
+    "title": "7.5: TensorFlow.js Color Classifier: Cleaning Data Part 3"
+  },
+  {
+    "video_id": "yXl0dM1b43s",
+    "title": "7.2: TensorFlow.js Color Classifier: Saving Data to Firebase"
+  },
+  {
+    "video_id": "jHnyFNMOffo",
+    "title": "Live Stream #143: Color Classifier with TensorFlow.js"
+  },
+  {
+    "video_id": "F4WWukTWoXY",
+    "title": "6.5: TensorFlow.js: Layers API Part 1 - Intelligence and Learning"
+  },
+  {
+    "video_id": "8R-JMcASvEQ",
+    "title": "Live Stream #137.1: Promises in JavaScript - Part 1"
+  },
+  {
+    "video_id": "FbSlrm2GmC8",
+    "title": "6.4: TensorFlow.js: Memory Management - Intelligence and Learning"
+  },
+  {
+    "video_id": "2v5XteIQ8XM",
+    "title": "Live Stream #134: Introduction to Tensorflow.js"
+  },
+  {
+    "video_id": "3lvj9jvERvs",
+    "title": "Coding Challenge #100.3: Neuroevolution Flappy Bird - Part 3"
+  },
+  {
+    "video_id": "BV6xK3EOznI",
+    "title": "Guest Tutorial #10: Kinectron with Lisa Jamhoury"
+  },
+  {
+    "video_id": "L9InSe46jkw",
+    "title": "Live Stream #129: Jabril visits The Coding Train!"
+  },
+  {
+    "video_id": "4Ns9S-Z89-0",
+    "title": "Coding Challenge #97.2: The Book of Pi - Part 2"
+  },
+  {
+    "video_id": "kCx2DElEpP8",
+    "title": "11.2: Neuroevolution: Crossover and Mutation - The Nature of Code"
+  },
+  {
+    "video_id": "Km6QHvGTeGA",
+    "title": "5.6: Doodle Classifier: Classifying User Data - Intelligence and Learning"
+  },
+  {
+    "video_id": "gX7U6WA7Ffk",
+    "title": "5.2: Doodle Classifier: Prepping Data in Processing - Intelligence and Learning"
+  },
+  {
+    "video_id": "vtMKeEGpMI4",
+    "title": "Coding Challenge #94.4: 2048 - Part 4"
+  },
+  {
+    "video_id": "kWoZ9_ECZxQ",
+    "title": "Live Stream #121: map() and reduce() in JavaScript"
+  },
+  {
+    "video_id": "f9vaiHoq-Fk",
+    "title": "Live Stream #119 - Solving Merge Conflicts and XOR Problem"
+  },
+  {
+    "video_id": "ZXPMgpPj56s",
+    "title": "Live Stream #117.1 - Unit Testing and CI with CircleCI - Part 1"
+  },
+  {
+    "video_id": "MPmLWsHzPlU",
+    "title": "10.13: Neural Networks: Feedforward Algorithm Part 2 - The Nature of Code"
+  },
+  {
+    "video_id": "iCxqLVm2H3w",
+    "title": "Live Stream #114: Neural Networks Continued"
+  },
+  {
+    "video_id": "puWqNBFDMMk",
+    "title": "10.8: Neural Networks: Updating Code to ES6 - The Nature of Code"
+  },
+  {
+    "video_id": "uCiV-QK28-k",
+    "title": "ITP Winter Show 2017"
+  },
+  {
+    "video_id": "O1mYw-3Wl_Q",
+    "title": "18.4: Texture - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "01WZbEL8Ac8",
+    "title": "Live Stream Archive - ITP Winter Show 2017"
+  },
+  {
+    "video_id": "vNb3P5KIxXw",
+    "title": "11.7: Chrome Extensions: New Tab Override - Programming with Text"
+  },
+  {
+    "video_id": "y0zS83xj0g0",
+    "title": "Live Stream #106.2: Chrome Extensions - Part 2"
+  },
+  {
+    "video_id": "mrYMzpbFz18",
+    "title": "16.3: ES6 Arrow Function - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "q_bXBcmfTJM",
+    "title": "10.4: Speech Recognition with p5.Speech - Programming with Text"
+  },
+  {
+    "video_id": "slmSCEho31g",
+    "title": "10.1: Introduction to Chatbots - Programming with Text"
+  },
+  {
+    "video_id": "jPsZwrV9ld0",
+    "title": "Coding Challenge #77: Recursion"
+  },
+  {
+    "video_id": "PQwfop4bewM",
+    "title": "Live Stream #101.2: \"let\" vs \"var\", \"const\",  10 PRINT,  Wikipedia API & more! - Part 2"
+  },
+  {
+    "video_id": "tXjI6evU-so",
+    "title": "Live Stream #100.1: Transformations and Clocks with p5.js - Part 1"
+  },
+  {
+    "video_id": "S1xGFWwDuLE",
+    "title": "Hello again! (Update on bike accident)"
+  },
+  {
+    "video_id": "c6WdJltqEtM",
+    "title": "Coding Challenge #72.4: Frogger Refactoring"
+  },
+  {
+    "video_id": "m9EsKBPCggk",
+    "title": "Live Stream #97: Perceptron Follow-up and Frogger Refactoring"
+  },
+  {
+    "video_id": "_cXuvTQl090",
+    "title": "3.3: Linear Regression with Ordinary Least Squares Part 2 - Intelligence and Learning"
+  },
+  {
+    "video_id": "q7_KyU8ibm8",
+    "title": "Live Stream Archive - ITP Spring Show 2017"
+  },
+  {
+    "video_id": "N8Fabn1om2k",
+    "title": "Coding Challenge #70.1: Nearest Neighbors Recommendation Engine - Part 1"
+  },
+  {
+    "video_id": "dS0jfmyKfjs",
+    "title": "1.2: Exercise Ideas: Session 1 - Intelligence and Learning"
+  },
+  {
+    "video_id": "NCvdjnN9UfI",
+    "title": "Live Stream #90: Session 2 of “Intelligence and Learning” Continued"
+  },
+  {
+    "video_id": "XaOVH8ZSRNA",
+    "title": "Coding Challenge #69.2: Evolutionary Steering Behaviors - Part 2"
+  },
+  {
+    "video_id": "hVSHlFjTeqg",
+    "title": "Live Stream #87.3: Timer in JavaScript, Pong and Binary Tree - Part 3"
+  },
+  {
+    "video_id": "5itOWkmIarg",
+    "title": "Live Stream #85: Forward and Inverse Kinematics"
+  },
+  {
+    "video_id": "4HsVCLakjtQ",
+    "title": "5.19: Matter.js: Deleting Bodies - The Nature of Code"
+  },
+  {
+    "video_id": "YKdvQYk7orE",
+    "title": "Live Stream #82: Physics Engines and Matter.js"
+  },
+  {
+    "video_id": "L1nHni9HMBw",
+    "title": "Live Stream #79: 3D Earthquake Data Visualization & Steering Behaviors"
+  },
+  {
+    "video_id": "vNjobQiQZns",
+    "title": "9.18: p5.js with OpenProcessing and Processing IDE - p5.js Tutorial"
+  },
+  {
+    "video_id": "ERQcYaaZ6F0",
+    "title": "Coding Challenge #50.2: Animated Circle Packing - Part 2 (Kitten Addendum)"
+  },
+  {
+    "video_id": "xTTuih7P0c0",
+    "title": "Coding Challenge #46.2: Asteroids with p5.js - Part 2"
+  },
+  {
+    "video_id": "NcewaPfFR6Y",
+    "title": "9.3: Firebase: Retrieving Data - Programming with Text"
+  },
+  {
+    "video_id": "nAQNmjyAUTY",
+    "title": "Live Stream #69.1: Session 9 - Programming from A to Z - Part 1"
+  },
+  {
+    "video_id": "uw3GbsY_Pbc",
+    "title": "Coding Challenge #44.1: AFINN-111 Sentiment Analysis - Part 1"
+  },
+  {
+    "video_id": "HRBS_OtQupM",
+    "title": "Live Stream #67.2: Session 8 - Programming from A to Z - Part 2"
+  },
+  {
+    "video_id": "oMhAd864bBc",
+    "title": "8.4: RESTful Routes with Parameters - Programming with Text"
+  },
+  {
+    "video_id": "6oiabY1xpBo",
+    "title": "8.2: HTTP Server with Express - Programming with Text"
+  },
+  {
+    "video_id": "UzVtOS2DBA8",
+    "title": "7.4: Homework Assignment Session 7 - Programming with Text"
+  },
+  {
+    "video_id": "X6IPcExkG30",
+    "title": "Live Stream #65: Session 7 - Programming from A to Z"
+  },
+  {
+    "video_id": "9r8CmofnbAQ",
+    "title": "Coding Challenge #42.2: Markov Chains - Part 2"
+  },
+  {
+    "video_id": "4DR0ryGSYJQ",
+    "title": "Live Stream #64: Session 6 - Programming from A to Z"
+  },
+  {
+    "video_id": "bM9MfoKe9GU",
+    "title": "Live Stream #63: Sound in p5.js Continued + Q&A"
+  },
+  {
+    "video_id": "6DoJob85jE0",
+    "title": "5.3: Homework Assignment Week 5 - Programming with Text"
+  },
+  {
+    "video_id": "XUhyfkE4BS8",
+    "title": "3.3: Homework Assignments Week 3 - Programming with Text"
+  },
+  {
+    "video_id": "tk_JGu2AbJY",
+    "title": "3.2: The \"nlp-compromise\" Library - Programming with Text"
+  },
+  {
+    "video_id": "pMn44yFxGWk",
+    "title": "2.10: Homework Assignments Week 2 - Programming with Text"
+  },
+  {
+    "video_id": "fdyqutmcI2Q",
+    "title": "2.8: Regular Expressions: split() - Programming with Text"
+  },
+  {
+    "video_id": "Z66TeSTcP-Q",
+    "title": "2.5: Regular Expressions: Back References - Programming with Text"
+  },
+  {
+    "video_id": "ePXti_zFrFQ",
+    "title": "Live Stream #60: Week 2 of Programming from A to Z (Regular Expressions)"
+  },
+  {
+    "video_id": "d3OcFexe9Ik",
+    "title": "1.2: My Workflow - Programming with Text"
+  },
+  {
+    "video_id": "UTq0RQwnU3s",
+    "title": "Live Stream #59: Week 1 of Programming from A to Z"
+  },
+  {
+    "video_id": "_cDPN2Ief6Q",
+    "title": "Live Stream #58: Networking Agar.io and the History of p5.js/Processing"
+  },
+  {
+    "video_id": "goUlyp4rwiU",
+    "title": "Coding Challenge #35.2: Lexicographic Order"
+  },
+  {
+    "video_id": "r_SpBy9fQuo",
+    "title": "Live Stream #57 - Traveling Salesperson"
+  },
+  {
+    "video_id": "2S0J5iiQ0nw",
+    "title": "Live Stream #56: Poisson Disc Sampling and Diffusion-Limited Aggregation"
+  },
+  {
+    "video_id": "816ayuhDo0E",
+    "title": "9.7: Genetic Algorithm: Pool Selection - The Nature of Code"
+  },
+  {
+    "video_id": "A01_aKgIeCo",
+    "title": "Live Stream #53 - Smart Rockets, CodePen and Arguments Array in JS"
+  },
+  {
+    "video_id": "MQMJ0xWSMWE",
+    "title": "Live Stream #54 - Phyllotaxis and More on Genetic Algorithms"
+  },
+  {
+    "video_id": "o1Ob28sF0N8",
+    "title": "11.10: Computer Vision: Adding Lifespan to Blobs - Processing Tutorial"
+  },
+  {
+    "video_id": "z6ym480PQvE",
+    "title": "Q&A #4: Loading Animation in p5.js"
+  },
+  {
+    "video_id": "h22thzVaMtY",
+    "title": "Live Stream #49b - Blob Detection Addendum and Q&A"
+  },
+  {
+    "video_id": "ATWOjXdRIoo",
+    "title": "Live Stream #48 - Computer Vision and Fireworks!"
+  },
+  {
+    "video_id": "RkuBWEkBrZA",
+    "title": "Coding Challenge #25: Spherical Geometry"
+  },
+  {
+    "video_id": "wUSva_BnedA",
+    "title": "17.7: ADSR Envelope - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "b_MMGJiUcbM",
+    "title": "Live Stream #45: Sound Synthesis, Envelope and Supershapes"
+  },
+  {
+    "video_id": "k6OeXGzRv0c",
+    "title": "Live Stream #44:  Julia Set and Sound Effects with p5.js"
+  },
+  {
+    "video_id": "NCCHQwNAN6Y",
+    "title": "17.4: Amplitude Analysis - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "YcezEwOXun4",
+    "title": "17.2: Play and Pause Button - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "z86cx2A4_3E",
+    "title": "Coding Challenge #19: Superellipse"
+  },
+  {
+    "video_id": "MwLyeEWnMCY",
+    "title": "Live Stream #40:  Tree Generation with Different Algorithms"
+  },
+  {
+    "video_id": "FYRINCEDVKI",
+    "title": "Live Stream #39: Q&A and Reaction Diffusion Algorithm"
+  },
+  {
+    "video_id": "gw_TR1tycWQ",
+    "title": "Live Stream #38: Viewer Submitted Questions + the Lorenz System"
+  },
+  {
+    "video_id": "G4fTU4vPKH8",
+    "title": "Live Stream #36: Git and GitHub Tutorials - Overview of Git in Terminal"
+  },
+  {
+    "video_id": "_p5IH0L63wo",
+    "title": "Coding Challenge #10.4: Maze Generator with p5.js - Part 4"
+  },
+  {
+    "video_id": "r8QMcI5qxQM",
+    "title": "Live Stream #34: Git and GitHub Tutorials + Purple Rain and Solar System"
+  },
+  {
+    "video_id": "yUO2bWfBgN8",
+    "title": "Live Stream #32: Git and GitHub Tutorial and the Snake Game"
+  },
+  {
+    "video_id": "bjULmG8fqc8",
+    "title": "12.1: Introduction to Node - WebSockets and p5.js Tutorial"
+  },
+  {
+    "video_id": "jdKep6jo7b0",
+    "title": "11.8: Video Effects with Seriously.js - p5.js Tutorial"
+  },
+  {
+    "video_id": "WCJM9WIoudI",
+    "title": "11.3: Slit-Scan Video - Processing Tutorial"
+  },
+  {
+    "video_id": "LoSJN9QYpz0",
+    "title": "14.3: Dynamic Text (contenteditable attribute) - Hamilton Lottery Simulator with p5.js"
+  },
+  {
+    "video_id": "ZyiYux7Zqzc",
+    "title": "14.2: The Code (HTML, CSS, and JavaScript) - Hamilton Lottery Simulator with p5.js"
+  },
+  {
+    "video_id": "0V3uYA1hafk",
+    "title": "11.6: Painting with Pixels - p5.js Tutorial"
+  },
+  {
+    "video_id": "VPnmA4vl6YU",
+    "title": "Live Stream #27: Checkbox Mirror and Painting with Pixels in p5.js"
+  },
+  {
+    "video_id": "SHtmvl-eYPg",
+    "title": "Live Stream #26"
+  },
+  {
+    "video_id": "ccmg_THE-Ms",
+    "title": "Live Stream #25"
+  },
+  {
+    "video_id": "WTsNLYQUyfY",
+    "title": "Live Stream #24"
+  },
+  {
+    "video_id": "26bajyD4fLg",
+    "title": "15.9: Amazon EC2 Deployment - Twitter Bot Tutorial"
+  },
+  {
+    "video_id": "TZVldoG381k",
+    "title": "Live Stream #21"
+  },
+  {
+    "video_id": "n4mignvHPWk",
+    "title": "Live Stream #19"
+  },
+  {
+    "video_id": "vqE8DMfOajk",
+    "title": "9.7: Drawing Object Trails - p5.js Tutorial"
+  },
+  {
+    "video_id": "27OPaNaeXMA",
+    "title": "Live Stream #17: Processing Live Hour of Code"
+  },
+  {
+    "video_id": "6wviMtISsyc",
+    "title": "Live Stream #15: Using the Kinect and Processing"
+  },
+  {
+    "video_id": "KNsFrAnzSN4",
+    "title": "Live Stream #14: Twitter Bots with Node and Processing"
+  },
+  {
+    "video_id": "CizPAT775q8",
+    "title": "Live Stream #13: Wordnik and NYTimes API in JavaScript with p5.js"
+  },
+  {
+    "video_id": "v3KxZDLJuYc",
+    "title": "Live Stream #12: Working with Data and APIs with p5.js - Part 2"
+  },
+  {
+    "video_id": "KMRgLi2TBhQ",
+    "title": "8.13: Assigning a CSS Class Dynamically - p5.js Tutorial"
+  },
+  {
+    "video_id": "eoXLD0Aw1YI",
+    "title": "8.12: parent() and child() - p5.js Tutorial"
+  },
+  {
+    "video_id": "sVo8Dbii8OQ",
+    "title": "8.9: CSS Selectors - p5.js Tutorial"
+  },
+  {
+    "video_id": "XCUEpmBnqfs",
+    "title": "Hello and welcome! (Learn about code?)"
+  },
+  {
+    "video_id": "wH3tjX2xfdg",
+    "title": "Live Stream #9: DOM, Data, and APIs"
+  },
+  {
+    "video_id": "IKIzb01NRMc",
+    "title": "Processing 3 and arrays"
+  },
+  {
+    "video_id": "rEC9U9dgxkA",
+    "title": "Live Stream #7.1: HTML / CSS / DOM with p5.js - Part 1"
+  },
+  {
+    "video_id": "FVYGyaxG4To",
+    "title": "7.8: Objects and Images - p5.js Tutorial"
+  },
+  {
+    "video_id": "uAfw-ko3kB8",
+    "title": "7.6: Checking Objects Intersection Part I - p5.js Tutorial"
+  },
+  {
+    "video_id": "DEHsr4XicN8",
+    "title": "7.6: Clicking on Objects - p5.js Tutorial"
+  },
+  {
+    "video_id": "PgGFv44bz9E",
+    "title": "Live Stream #6: More about Arrays and Objects with p5.js"
+  },
+  {
+    "video_id": "pGkSHeEZLMU",
+    "title": "7.3: Arrays of Objects - p5.js Tutorial"
+  },
+  {
+    "video_id": "4gig-z_UpnI",
+    "title": "What's new in Processing 3 Session #2"
+  },
+  {
+    "video_id": "LOcSnePMfb0",
+    "title": "Preparing to discuss Processing 3"
+  },
+  {
+    "video_id": "xyclhIu2WDY",
+    "title": "Live Stream #4: p5.js Lessons About Loops"
+  },
+  {
+    "video_id": "uEVJRE_6v0A",
+    "title": "Live Stream #2.1: p5.js Conditionals and Loops - Part 1"
+  },
+  {
+    "video_id": "TdUC3JgwUJY",
+    "title": "Live Stream #1: p5.js Video Lesson Recording Session"
+  },
+  {
+    "video_id": "-wiverLQl1Q",
+    "title": "8.1: Fractals - The Nature of Code"
+  },
+  {
+    "video_id": "_BOtJncHCVA",
+    "title": "8.3: Fractal Recursion with ArrayList of Objects (Koch Curve) - The Nature of Code"
+  },
+  {
+    "video_id": "FLwHvhUTthc",
+    "title": "7.4: Cellular Automata Exercises - The Nature of Code"
+  },
+  {
+    "video_id": "_ENEsV_kNx8",
+    "title": "6.5: Vectors: Dot Product and Scalar Projection - The Nature of Code"
+  },
+  {
+    "video_id": "E67e0RX-7Ew",
+    "title": "5.13: What is Toxiclibs Verlet Physics? - The Nature of Code"
+  },
+  {
+    "video_id": "3v7SsOdxxww",
+    "title": "5.14: Toxiclibs Verlet Physics Basics: Particles and Springs - The Nature of Code"
+  },
+  {
+    "video_id": "V95dzuDw0Jg",
+    "title": "5.7: Complex Shapes in Box2D - The Nature of Code"
+  },
+  {
+    "video_id": "1YYMiWheJuc",
+    "title": "5.5: Adding Box2D to Processing Sketch Part 2 - The Nature of Code"
+  },
+  {
+    "video_id": "bJJbQIoJeFc",
+    "title": "5.11: Applying forces in Box2D - The Nature of Code"
+  },
+  {
+    "video_id": "SUVH8Bh4ruw",
+    "title": "5.9: Box2D Joints: Revolute Joint - The Nature of Code"
+  },
+  {
+    "video_id": "iNHfAFx8ktQ",
+    "title": "5.3: Box2D Coordinates and Vectors - The Nature of Code"
+  },
+  {
+    "video_id": "zv9Y_ErUPoM",
+    "title": "4.8: Applying forces to a Particle System - The Nature of Code"
+  },
+  {
+    "video_id": "m6-cm6GZ1iw",
+    "title": "Coding Challenge 162: Self-Avoiding Walk"
+  },
+  {
+    "video_id": "EvS_a921dBo",
+    "title": "Coding Challenge 161: Estimating π from Random Numbers with Euclid's Algorithm"
+  },
+  {
+    "video_id": "e9ZrSBUObeg",
+    "title": "2021 Choo Choo!"
+  },
+  {
+    "video_id": "O5zg9WvRZXs",
+    "title": "Guest Conductor: Chrissy Brimmage"
+  },
+  {
+    "video_id": "1jTMZvu2dYU",
+    "title": "Nature of Code Continued: Attraction and onto Chapter 3!"
+  },
+  {
+    "video_id": "3wMFd8OGI84",
+    "title": "Processing Foundation Holiday Telethon 2019"
+  },
+  {
+    "video_id": "gaWNmLyJiUk",
+    "title": "Live Stream #188: ml5.neuralNetwork"
+  },
+  {
+    "video_id": "-VfWfi7Goik",
+    "title": "Live Stream #166.1: Finish Up Fourier + ml5 KNN"
+  },
+  {
+    "video_id": "qtUV-DoSOpk",
+    "title": "Live Stream #162: Flocking Simulation(\"Boids\")"
+  },
+  {
+    "video_id": "4L4JyWyb3oI",
+    "title": "Live Stream #153: Mastodon"
+  },
+  {
+    "video_id": "GQCKDjg2Z7w",
+    "title": "7.11: TensorFlow.js Color Classifier: Animating Loss"
+  },
+  {
+    "video_id": "gRNvA6c4ero",
+    "title": "7.4: TensorFlow.js Color Classifier: Cleaning Data Part 2"
+  },
+  {
+    "video_id": "_9ZerP7pGvc",
+    "title": "Live Stream #142: Sandpile and Barnsley Fern Coding Challenges"
+  },
+  {
+    "video_id": "YVmVYuUj6yE",
+    "title": "Live Stream Archive - ITP Spring Show 2018 (Better Audio)"
+  },
+  {
+    "video_id": "HrvNpbnjEG8",
+    "title": "Coding Challenge #100.4: Neuroevolution Flappy Bird - Part 4"
+  },
+  {
+    "video_id": "Rr3vLyP1Ods",
+    "title": "Adding a Function to p5.js"
+  },
+  {
+    "video_id": "QYUROUJk_Sc",
+    "title": "Live Stream #126.2: Happy Pi Day - Part 2"
+  },
+  {
+    "video_id": "UxLm2HxJmMw",
+    "title": "5.4: Doodle Classifier: Training - Intelligence and Learning"
+  },
+  {
+    "video_id": "m9bRVQ_-DXY",
+    "title": "16.10: Particle System with JS Array Functions - Topics of JavaScript/ES6"
+  },
+  {
+    "video_id": "e8H588SXu6U",
+    "title": "Live Stream #118 - More Neural Networks"
+  },
+  {
+    "video_id": "K7o20pXDLNA",
+    "title": "Live Stream #114.2 - Revisiting the Feedforward Algorithm"
+  },
+  {
+    "video_id": "DZlw-IS5OkI",
+    "title": "18.8: 3D Custom Shapes - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "k2FguXvqp60",
+    "title": "18.3: Light and Material - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "U8S1qDjIE2Y",
+    "title": "Live Stream #108: More OOP with ES6 & The Game of Life"
+  },
+  {
+    "video_id": "0veqAiA61AU",
+    "title": "Coding Challenge #81.2: Circle Morphing - Part 2"
+  },
+  {
+    "video_id": "gFqBnxIm5Us",
+    "title": "Live Stream #104: Chatbots with p5.Speech, More OOP in JS & Paperclips!"
+  },
+  {
+    "video_id": "flWfS9hMDEY",
+    "title": "Community Coding Projects"
+  },
+  {
+    "video_id": "x9Qav-Dqzw8",
+    "title": "Live Stream #99: Back from Hiatus!"
+  },
+  {
+    "video_id": "06-ZvYmSeus",
+    "title": "Coding Challenge #72.2: Frogger - Part 2"
+  },
+  {
+    "video_id": "5zbF3VXAAto",
+    "title": "Live Stream #93: Session 3 of “Intelligence and Learning” Continued"
+  },
+  {
+    "video_id": "zBGSWVh_Fyc",
+    "title": "2.2: Exercise Ideas: Session 2 - Intelligence and Learning"
+  },
+  {
+    "video_id": "ykOcaInciBI",
+    "title": "Coding Challenge #69.4: Evolutionary Steering Behaviors - Part 4"
+  },
+  {
+    "video_id": "YUlJAu1j_UM",
+    "title": "Live Stream #88: Session 1 of “Intelligence and Learning”"
+  },
+  {
+    "video_id": "CdBXmsrkaPs",
+    "title": "Coding Challenge #62.4: Plinko with Matter.js Part 4"
+  },
+  {
+    "video_id": "Iu3M-X1yRFU",
+    "title": "Live Stream #84: Plinko with Matter.js"
+  },
+  {
+    "video_id": "UiYb4yCsqFE",
+    "title": "Live Stream #78: More Earthquake Data Visualization"
+  },
+  {
+    "video_id": "sJ6pMLp_IaI",
+    "title": "Coding Challenge #54.1: Islamic Star Patterns"
+  },
+  {
+    "video_id": "pF0cadg2mg0",
+    "title": "Live Stream #71: Coding Challenges: Circle Packing and White House Data Visualization"
+  },
+  {
+    "video_id": "JrHT1iqSrAQ",
+    "title": "9.1: What is Firebase? (Database as a Service) - Programming with Text"
+  },
+  {
+    "video_id": "lCzB9V9L8d0",
+    "title": "Live Stream #68.3: Session 8 - Programming from A to Z - Part 3"
+  },
+  {
+    "video_id": "e4qKBkwwkNg",
+    "title": "8.3: RESTful Routes - Programming with Text"
+  },
+  {
+    "video_id": "VaAoIaZ3YKs",
+    "title": "7.3: Context-Free Grammar with RiTa.js - Programming with Text"
+  },
+  {
+    "video_id": "v4kL0OHuxXs",
+    "title": "6.1: Intro to Session 6: Markov Chains - Programming with Text"
+  },
+  {
+    "video_id": "jXOIp2NOsaI",
+    "title": "Live Stream #62: Week 5 of Programming from A to Z"
+  },
+  {
+    "video_id": "tE-ZYXU8A8U",
+    "title": "5.1: Intro to Week 5: Text Analysis and Word Counting - Programming with Text"
+  },
+  {
+    "video_id": "Fe1sy9fkTKQ",
+    "title": "Live Stream #61: Week 3 of Programming from A to Z"
+  },
+  {
+    "video_id": "t029QcVHtas",
+    "title": "2.7: Regular Expressions: exec() - Programming with Text"
+  },
+  {
+    "video_id": "Cl_Gjj80gPE",
+    "title": "Coding Challenge #34: Diffusion-Limited Aggregation"
+  },
+  {
+    "video_id": "eOii4P7WYbY",
+    "title": "Live Stream #55 - Flappy Bird and Agar.io Clones"
+  },
+  {
+    "video_id": "nrKjSeoc7fc",
+    "title": "9.3: Genetic Algorithm: Shakespeare Monkey Example - The Nature of Code"
+  },
+  {
+    "video_id": "0_u8OPQ4-NM",
+    "title": "Q&A #3: How to contribute to p5.js"
+  },
+  {
+    "video_id": "3xNv10FglGc",
+    "title": "Live Stream #50: Loading Animation, Metaballs and 2D Arrays in JS"
+  },
+  {
+    "video_id": "jQdvM69nQb8",
+    "title": "Live Stream #49a: Q&A on WebGL and Improved Blob Detection"
+  },
+  {
+    "video_id": "m8WhMeW8jj0",
+    "title": "Live Stream #47 - 3D Supershapes and Spherical Geometry"
+  },
+  {
+    "video_id": "Bk8rLzzSink",
+    "title": "17.6: Sound Synthesis - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "pLtViSqkPvQ",
+    "title": "Live Stream #43:  Mandelbrot Set with p5.js"
+  },
+  {
+    "video_id": "nfU-NqnXn1o",
+    "title": "Live Stream #42: Sound in p5.js + 3D Cloth with toxiclibs"
+  },
+  {
+    "video_id": "ELpZW62HGVs",
+    "title": "Live Stream #37: 3D Terrain Generation"
+  },
+  {
+    "video_id": "nF7DVmovWr0",
+    "title": "Live Stream #35: 3D Solar System and Maze Generator"
+  },
+  {
+    "video_id": "Md5LIDW0RyY",
+    "title": "Live Stream #31: Shape Morphing and Menger Sponge in Processing"
+  },
+  {
+    "video_id": "YqVbuMPIRwY",
+    "title": "11.7: Slit-Scan Video - p5.js Tutorial"
+  },
+  {
+    "video_id": "bwKQPIyyVQw",
+    "title": "14.1: The Mathematics (Probability, Logarithm) - Hamilton Lottery Simulator with p5.js"
+  },
+  {
+    "video_id": "m1G6WBvrOBE",
+    "title": "11.5: Checkbox Mirror - p5.js Tutorial"
+  },
+  {
+    "video_id": "oLiaUEKsRws",
+    "title": "11.2: Video Photobooth / Muybridge Style Animation - p5.js Tutorial"
+  },
+  {
+    "video_id": "xKVWcU3ejc0",
+    "title": "Live Stream #23"
+  },
+  {
+    "video_id": "DwWPunpypNA",
+    "title": "15.8: Heroku Deployment - Twitter Bot Tutorial"
+  },
+  {
+    "video_id": "qUI3jhJmRO4",
+    "title": "Test Broadcast"
+  },
+  {
+    "video_id": "CqDqHiamRHA",
+    "title": "9.5: JavaScript setInterval() Function - p5.js Tutorial"
+  },
+  {
+    "video_id": "mUoIPmZ4KwA",
+    "title": "15.6: Tweeting images with Processing - Twitter Bot Tutorial"
+  },
+  {
+    "video_id": "4OAG_BkQcPE",
+    "title": "8.14: parent() and child() again with Variables - p5.js Tutorial"
+  },
+  {
+    "video_id": "sSQPLIHIzmg",
+    "title": "8.10: select() and selectAll() with CSS Selectors - p5.js Tutorial"
+  },
+  {
+    "video_id": "Dc5AUG8qoW4",
+    "title": "Live Stream #10: More p5.js DOM"
+  },
+  {
+    "video_id": "GY-c2HO2liA",
+    "title": "7.7: Checking Objects Intersection Part II - p5.js Tutorial"
+  },
+  {
+    "video_id": "Yk18ZKvXBj4",
+    "title": "7.5: Multiple js Files - p5.js Tutorial"
+  },
+  {
+    "video_id": "8v_D33uGUrU",
+    "title": "Live Stream #5: Arrays and Objects with p5.js"
+  },
+  {
+    "video_id": "QoFWCPVpWUE",
+    "title": "5.4: Functions Inside of Objects - p5.js Tutorial"
+  },
+  {
+    "video_id": "RWAcbV4X7C8",
+    "title": "8.4: Recursion with Transformations - The Nature of Code"
+  },
+  {
+    "video_id": "2CL1maXeQCI",
+    "title": "6.3: Steering Behaviors: Arrive - The Nature of Code"
+  },
+  {
+    "video_id": "YskU_gJpc0c",
+    "title": "5.15: Connected Systems with Toxiclibs VerletPhysics - The Nature of Code"
+  },
+  {
+    "video_id": "pJ_M_fACtB8",
+    "title": "5.12: Collision Events in Box2D - The Nature of Code"
+  },
+  {
+    "video_id": "lmYLmcFuj2s",
+    "title": "5.4: Adding Box2D to Processing Sketch Part 1 - The Nature of Code"
+  },
+  {
+    "video_id": "oBcv_P_YDrw",
+    "title": "5.6: Static Bodies and Chain Shapes in Box2D - The Nature of Code"
+  },
+  {
+    "video_id": "IsdZKG9wyBc",
+    "title": "4.3: Deleting objects from ArrayList - The Nature of Code"
+  },
+  {
+    "video_id": "e6eXD8DHc_A",
+    "title": "4.5: Introduction to Inheritance Part I - The Nature of Code"
+  },
+  {
+    "video_id": "cluKQOY92Dw",
+    "title": "3.5: Springs - The Nature of Code"
+  },
+  {
+    "video_id": "HZcic7lEcmU",
+    "title": "2.4: Friction Force - The Nature of Code"
+  },
+  {
+    "video_id": "MkXoQVWRDJs",
+    "title": "2.2: Applying a Force - The Nature of Code"
+  },
+  {
+    "video_id": "PjxbuSnj8Pk",
+    "title": "13.2: Strings: Split and Join - Processing Tutorial"
+  },
+  {
+    "video_id": "JRlqDsuK3Is",
+    "title": "13.4: Word Counting - Processing Tutorial"
+  },
+  {
+    "video_id": "x7ZKr6_QEuk",
+    "title": "Processing Live Test"
+  },
+  {
+    "video_id": "IYaYE-3aXOw",
+    "title": "Open Source Saturday! (Live from the Attic)"
+  },
+  {
+    "video_id": "psfZzffno3k",
+    "title": "Convolutional Neural Networks with ml5.js"
+  },
+  {
+    "video_id": "jKHgVdyC55M",
+    "title": "Live Stream #184:  uNet and BodyPix with ml5.js"
+  },
+  {
+    "video_id": "EvOC_vyFAiI",
+    "title": "Live Stream #171: Time to put away the noise loops!"
+  },
+  {
+    "video_id": "v6EmLhu7C9M",
+    "title": "Live Stream #148.1: 3D Rendering Basics"
+  },
+  {
+    "video_id": "EZ--4rxpdrY",
+    "title": "Coding Challenge: Happy Tau Day!"
+  },
+  {
+    "video_id": "BZUdGqeOD0w",
+    "title": "Coding Challenge #102: 2D Water Ripple"
+  },
+  {
+    "video_id": "MxnqJGwu2cc",
+    "title": "Live Stream #128: Quadtrees"
+  },
+  {
+    "video_id": "Up0bkN4I_f4",
+    "title": "Live Stream #123.2: Doodle Classifier - Part 2"
+  },
+  {
+    "video_id": "nvvjYJ2L57c",
+    "title": "Live Stream #116.1 - Snakes & Ladders"
+  },
+  {
+    "video_id": "3tTZlTq4Cxs",
+    "title": "18.6: createGraphics() as WebGL Texture - WebGL and p5.js Tutorial"
+  },
+  {
+    "video_id": "h3p0U8yWrMU",
+    "title": "Live Stream #107: Chrome Extensions Continued"
+  },
+  {
+    "video_id": "Pscq691SADc",
+    "title": "Live Stream #103: More on JavaScript Objects & Chatbots with RiveScript"
+  },
+  {
+    "video_id": "IlmNhFxre0w",
+    "title": "10.5: Neural Networks: Multilayer Perceptron Part 2 - The Nature of Code"
+  },
+  {
+    "video_id": "aMtckmWAzDg",
+    "title": "Coding Challenge #70.3: Nearest Neighbors Recommendation Engine - Part 3"
+  },
+  {
+    "video_id": "qzFlnX-z38U",
+    "title": "Live Stream #89: Session 2 of “Intelligence and Learning”"
+  },
+  {
+    "video_id": "JkznVy_Ciwk",
+    "title": "Coding Train Studio Tour!"
+  },
+  {
+    "video_id": "f5QBExMNB1I",
+    "title": "Coding Challenge #55: Mathematical Rose Patterns"
+  },
+  {
+    "video_id": "VFnF87-JNtY",
+    "title": "Live Stream #70: Coding Challenges: Asteroids and Pixel Sorting"
+  },
+  {
+    "video_id": "0QjgnEBp__U",
+    "title": "Guest Tutorial #1: Particle.io Board and p5.js with Tega Brain"
+  },
+  {
+    "video_id": "aq9Wf7F5e84",
+    "title": "6.2: Homework Assignment Session 6 - Programming with Text"
+  },
+  {
+    "video_id": "DcoAjEZYies",
+    "title": "1.5: JavaScript String Object - Programming with Text"
+  },
+  {
+    "video_id": "9Xy-LMAfglE",
+    "title": "Coding Challenge #35.3: Traveling Salesperson with Lexicographic Order"
+  },
+  {
+    "video_id": "DIXtg5VVz2E",
+    "title": "Live Stream #52: Genetic Algorithms"
+  },
+  {
+    "video_id": "1scFcY-xMrI",
+    "title": "11.8: Computer Vision: Improved Blob Detection - Processing Tutorial"
+  },
+  {
+    "video_id": "ksRoh-10lak",
+    "title": "Coding Challenge #23: 2D Supershapes"
+  },
+  {
+    "video_id": "SfA5CghXw18",
+    "title": "17.3: Timing, Jumps and Cues - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "WpUnYfVmKdA",
+    "title": "Live Stream #33: Space Invaders and Mitosis Simulation"
+  },
+  {
+    "video_id": "CQpGhT-RLkM",
+    "title": "Live Stream #29: Processing and p5.js - Slit-scan and Seriously.js"
+  },
+  {
+    "video_id": "rNqaw8LT2ZU",
+    "title": "11.4: Brightness Mirror - p5.js Tutorial"
+  },
+  {
+    "video_id": "N9ZK_rpr3tY",
+    "title": "Live Stream #22"
+  },
+  {
+    "video_id": "7L3wGAoGy4U",
+    "title": "Live Stream #18"
+  },
+  {
+    "video_id": "xG6rc0Lcbks",
+    "title": "Live Stream #11: Working with Data and APIs with p5.js"
+  },
+  {
+    "video_id": "ZEy0_NLhdSE",
+    "title": "8.8: Events \"changed\" and \"input\" - p5.js Tutorial"
+  },
+  {
+    "video_id": "_8xBqVPjeCE",
+    "title": "Live Stream #8.2: HTML / CSS / DOM with p5.js - Part 2"
+  },
+  {
+    "video_id": "6G02PLQ8L7k",
+    "title": "Live Stream #3.2: p5.js Conditionals and Loops - Part 2"
+  },
+  {
+    "video_id": "s3Facu6ZVeA",
+    "title": "8.2: Fractal Recursion - The Nature of Code"
+  },
+  {
+    "video_id": "hSU19ICZVk4",
+    "title": "5.16: Attraction Behaviors in Toxiclibs VerletPhysics - The Nature of Code"
+  },
+  {
+    "video_id": "Ubfqc983jN8",
+    "title": "5.10: User Controlled Objects: Mouse Joint and Kinematic Type - The Nature of Code"
+  },
+  {
+    "video_id": "9iaEqGOh5WM",
+    "title": "3.4: Pendulum Simulation - The Nature of Code"
+  },
+  {
+    "video_id": "QHWGFXZvD0s",
+    "title": "2.3: Simulating with Mass - The Nature of Code"
+  },
+  {
+    "video_id": "XGP8OERtmoo",
+    "title": "Processing Live Test 2"
+  },
+  {
+    "video_id": "F3Q4Cf9OZSw",
+    "title": "Coding Train Live!"
+  },
+  {
+    "video_id": "_xa87yl0nd4",
+    "title": "Live Stream #168: Mathematical Hearts + GIF Loops"
+  },
+  {
+    "video_id": "b8RwO1k9DXc",
+    "title": "Live Stream #156: word2vec & Seven-Segment Display"
+  },
+  {
+    "video_id": "Gql-LxoGvXA",
+    "title": "7.7: TensorFlow.js Color Classifier: Training Data Tensors (one hot encoding)"
+  },
+  {
+    "video_id": "c6y21FkaUqw",
+    "title": "Coding Challenge #100.1: Neuroevolution Flappy Bird - Part 1"
+  },
+  {
+    "video_id": "KhogNPC24eI",
+    "title": "Live Stream #120: MNIST and Pendulums"
+  },
+  {
+    "video_id": "4ncCxWm6jj0",
+    "title": "Live Stream #110: WebGL with p5.js Continued"
+  },
+  {
+    "video_id": "IVMvq9rd8dA",
+    "title": "9.3: Transformations Pt.3 - p5.js Tutorial"
+  },
+  {
+    "video_id": "ETphJASzYes",
+    "title": "9.8: Genetic Algorithm: Improved Pool Selection - The Nature of Code"
+  },
+  {
+    "video_id": "S5Qj-JgAN-M",
+    "title": "Live Stream #81: Fractal Spirograph"
+  },
+  {
+    "video_id": "GZ2nwxhQUTU",
+    "title": "8.7: \"Build Your Own API\" Conclusion with HTTP POST - Programming with Text"
+  },
+  {
+    "video_id": "OIfEHD3KqCg",
+    "title": "Q&A #6: p5.js Sketch as Background"
+  },
+  {
+    "video_id": "EfJU0Y9WAZ4",
+    "title": "2.3: Regular Expressions: Character Classes - Programming with Text"
+  },
+  {
+    "video_id": "lFiPlk2KxQA",
+    "title": "Live Stream #51: Loading Animation Q&A and Blob Detection with Persistence"
+  },
+  {
+    "video_id": "40Me1-yAtTc",
+    "title": "17.5: Adding Sound Effects - p5.js Sound Tutorial"
+  },
+  {
+    "video_id": "B8tpfNH2gvM",
+    "title": "Live Stream #28: Hamilton Lottery Simulator - Probability and DOM"
+  },
+  {
+    "video_id": "2F6zliBTd-w",
+    "title": "Live Stream #20"
+  },
+  {
+    "video_id": "5tSBbWySCC0",
+    "title": "Arrays in Processing 3 (Java)"
+  },
+  {
+    "video_id": "03WXKb422w0",
+    "title": "Trying out Processing 3 Debugger"
+  },
+  {
+    "video_id": "JIz2L4tn5kM",
+    "title": "6.1: Autonomous Agents and Steering - The Nature of Code"
+  },
+  {
+    "video_id": "nzDYHa6ursA",
+    "title": "4.9: Using Image Textures with Particles - The Nature of Code"
+  },
+  {
+    "video_id": "II1A3bBo6gM",
+    "title": "2.1: What is a Force? - The Nature of Code"
+  },
+  {
+    "video_id": "nJWV7X7df9w",
+    "title": "11.2: Using the Movie Object for Displaying Recorded Videos - Processing Tutorial"
+  },
+  {
+    "video_id": "XBPbyMKjbDw",
+    "title": "ITP and IMA Spring Show 2020 (It's virtual, link in description to attend yourself!)"
+  },
+  {
+    "video_id": "NZR-N_dhK2M",
+    "title": "Live Stream #139: Linear Regression with TensorFlow.js"
+  },
+  {
+    "video_id": "nAz9AA_pQUQ",
+    "title": "10.10: Neural Networks: Matrix Math Part 4 - The Nature of Code"
+  },
+  {
+    "video_id": "jc2IthslyzM",
+    "title": "3.5: Mathematics of Gradient Descent - Intelligence and Learning"
+  },
+  {
+    "video_id": "RDULjRLn3pk",
+    "title": "Live Stream #73: Random Walk"
+  },
+  {
+    "video_id": "ziBO-U2_t3k",
+    "title": "Coding Challenge #39: Mad Libs Generator"
+  },
+  {
+    "video_id": "_of6UVV4HGo",
+    "title": "9.5: Genetic Algorithm: Fitness, Genotype vs Phenotype - The Nature of Code"
+  },
+  {
+    "video_id": "1Yo_AYzxA-o",
+    "title": "Live Stream #41: GitHub Pages, 3D Fractal Trees and Superellipse"
+  },
+  {
+    "video_id": "6t9m1ePK_-8",
+    "title": "p5.js Github Issue #1079"
+  },
+  {
+    "video_id": "KeZBpeH59Q4",
+    "title": "8.11: Callbacks on Multiple DOM Elements - p5.js Tutorial"
+  },
+  {
+    "video_id": "krRpZFU6rSI",
+    "title": "4.4: Particle System Class - The Nature of Code"
+  },
+  {
+    "video_id": "TaPVzWBWqd4",
+    "title": "13.3: loadStrings() - Processing Tutorial"
+  },
+  {
+    "video_id": "rnJgb-mYPEI",
+    "title": "Live Stream #180: Processing Java Library, Starting Computational Geometry Challenges"
+  },
+  {
+    "video_id": "ASnCXW6pPSY",
+    "title": "Live Stream #124.2 - Linting and Neuroevolution - Part 2"
+  },
+  {
+    "video_id": "pvPSOli2nR0",
+    "title": "Live Stream #87.1: Intro to \"Intelligence and Learning\" Class (+ Fire Alarm!) - Part 1"
+  },
+  {
+    "video_id": "JljMBn69fZM",
+    "title": "Live Stream #30: Creating Real-Time Shared Canvas with WebSockets"
+  },
+  {
+    "video_id": "HXOD_XDA-KU",
+    "title": "7.7: Deleting Objects Using splice() - p5.js Tutorial"
+  },
+  {
+    "video_id": "DfziDXHYoik",
+    "title": "I.4: Custom Distribution - The Nature of Code"
+  },
+  {
+    "video_id": "r5Iy3v1co0A",
+    "title": "Guest Tutorial #6: The Modulo Operator with Golan Levin"
+  },
+  {
+    "video_id": "_FABYvnTnpQ",
+    "title": "Live Stream #66: Session 8.1 - Programming from A to Z - Part 1"
+  },
+  {
+    "video_id": "Xe9hQmVJHAo",
+    "title": "Live Stream #16: setTimeout(), setInterval()"
+  },
+  {
+    "video_id": "akM4wMZIBWg",
+    "title": "Coding Challenge #26: 3D Supershapes"
+  },
+  {
+    "video_id": "4LYvltd07hk",
+    "title": "5.8: Box2D Joints: Distance Joint - The Nature of Code"
+  }
+]
