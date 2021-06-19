@@ -4,117 +4,52 @@ require './src/playlist'
 require './src/channel'
 require './src/app_config'
 require './src/connection'
+require './src/caption_video_table'
 
-def save_undetected_videos_process
-  output_config = OutputConfig.new
-  output_config.playlist_configs.each do |config|
-    videos = PlayList.new(config.id).fetch_videos
+def save_undetected_videos
+  OutputConfig.new.playlist_configs.each do |config|
     puts "[START] fetching video from #{config.name}"
-    save_undetected_video_records(videos, config.name)
+    videos = PlayList.new(config.id).fetch_videos
+    video_records = CaptionVideoTable.new(config.name).filter_undetected_video_record_only(videos)
+    video_table = VideoTable.new('./outputs/undetected', file_name)
+    video_table.overwrite_save(video_records)
     puts "[END] fetching video from #{config.name}"
   end
 end
 
-def save_undetected_video_records(videos, file_name)
-  video_records = get_undetected_video_record_only(videos, file_name)
-  video_table = VideoTable.new('./outputs/undetected', file_name)
-  video_table.overwrite_save(video_records)
-end
-
-def get_undetected_video_record_only(source_videos, file_name)
-  already_checked_video_records = get_checked_video_record_all(file_name)
-  source_videos
-    .map { |x| VideoRecord.new(x.video_id, x.title) }
-    .filter { |x| already_checked_video_records.all? { |y| y.video_id != x.video_id } }
-end
-
-def get_checked_video_record_all(file_name)
-  has_caption_video_table = VideoTable.new('./outputs/has_caption', file_name)
-  no_caption_video_table = VideoTable.new('./outputs/no_caption', file_name)
-
-  already_checked_video_records = []
-  already_checked_video_records.concat(has_caption_video_table.records)
-  already_checked_video_records.concat(no_caption_video_table.records)
-  already_checked_video_records
-end
-
-def check_has_captions_process
-  output_config = OutputConfig.new
-  output_config.playlist_configs.each do |config|
+def check_has_captions
+  OutputConfig.new.playlist_configs.each do |config|
     puts "[START] checking caption in #{config.name}"
-    split_to_caption_videos(config.name)
+    caption_video_table = CaptionVideoTable.new(config.name)
+    return unless caption_video_table.undetected_video_exists
+
+    videos = caption_video_table.undetected_video_all
+    caption_video_table.add_videos_by_caption(videos)
+    caption_video_table.reset_undetected_video_table
     puts "[END] checking caption in #{config.name}"
   end
 end
 
-def split_to_caption_videos(file_name)
-  video_table = VideoTable.new('./outputs/undetected', file_name)
-  video_records = get_undetected_video_record_only(video_table.records, file_name)
-  return if video_records.length.zero?
+def upload_videos_to_spreadsheet
+  OutputConfig.new.playlist_configs.each do |config|
+    puts "[START] upload to spreadsheet | #{config.name}"
+    has_caption_video_table = VideoTable.new('./outputs/has_caption', file_name)
+    return if has_caption_video_table.empty
 
-  has_caption_video_table = VideoTable.new('./outputs/has_caption', file_name)
-  no_caption_video_table = VideoTable.new('./outputs/no_caption', file_name)
-
-  video_records.each do |record|
-    video = Video.new(record.video_id, record.title)
-    print "[PROGRESS] check caption #{video.title} #{video.url}"
-    if video.contain_language_caption(%w[ja en])
-      puts ' => contain caption'
-      has_caption_video_table.add_record(record)
-      has_caption_video_table.save
-    else
-      puts ' => not contain caption'
-      no_caption_video_table.add_record(record)
-      no_caption_video_table.save
-    end
-    video_records.delete(record)
-    video_table.overwrite_save(video_records)
+    connection = Connection.new
+    connection.post_json_request(
+      AppConfig.new.gas_api_endpoint,
+      connection.create_request_object(config.name, has_caption_video_table.records)
+    )
   end
-end
-
-def upload_caption_video_to_spreadsheet_process
-  output_config = OutputConfig.new
-  output_config.playlist_configs.each do |config|
-    upload_caption_video_to_spreadsheet(config.name)
-  end
-end
-
-def upload_caption_video_to_spreadsheet(file_name)
-  puts "[START] upload to spreadsheet | #{file_name}"
-  has_caption_video_table = VideoTable.new('./outputs/has_caption', file_name)
-  if has_caption_video_table.empty
-    puts "[END] upload to spreadsheet | #{file_name}"
-    return
-  end
-
-  config = AppConfig.new
-  connection = Connection.new
-  connection.post_json_request(
-    config.gas_api_endpoint,
-    create_request_object(file_name, has_caption_video_table.records)
-  )
-  puts "[END] upload to spreadsheet | #{file_name}"
-end
-
-def create_request_object(sheet_name, video_records)
-  request = {}
-  request['sheetName'] = sheet_name
-  request['videos'] = video_records.map do |record|
-    video = Video.new(record.video_id, record.title)
-    video_hash = {}
-    video_hash['title'] = video.title
-    video_hash['url'] = video.url
-    video_hash
-  end
-  JSON.generate(request)
 end
 
 config = AppConfig.new
 config.youtube_api_keys.each do |api_key|
   puts "use youtube api key #{api_key}"
   begin
-    save_undetected_videos_process
-    check_has_captions_process
+    save_undetected_videos
+    check_has_captions
   rescue StandardError => e
     puts e.class
     puts e.message
@@ -122,4 +57,4 @@ config.youtube_api_keys.each do |api_key|
   config.increment_api_key_index
 end
 config.reset_api_key_idnex
-upload_caption_video_to_spreadsheet_process
+upload_videos_to_spreadsheet

@@ -7,6 +7,7 @@ class PlayList
     @youtube_service = YoutubeService.new
   end
 
+  # @return [Array<Video>]
   def fetch_videos
     response = list_playlist_items(nil)
     videos = create_videos(response)
@@ -32,7 +33,7 @@ class PlayList
     end
   end
 
-  # @return [Array<Google::Apis::YoutubeV3::ListPlaylistItemsResponse>]
+  # @return [Google::Apis::YoutubeV3::ListPlaylistItemsResponse]
   def list_playlist_items(page_token)
     @youtube_service.service.list_playlist_items(
       'snippet',

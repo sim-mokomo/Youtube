@@ -25,4 +25,20 @@ class Connection
     p response.code
     p JSON.parse(response.body)
   end
+
+  # @param [String] sheet_name
+  # @param [Array<VideoRecord>] video_records
+  # @return [String]
+  def create_request_object(sheet_name, video_records)
+    request = {}
+    request['sheetName'] = sheet_name
+    request['videos'] = video_records.map do |record|
+      video = Video.new(record.video_id, record.title)
+      video_hash = {}
+      video_hash['title'] = video.title
+      video_hash['url'] = video.url
+      video_hash
+    end
+    JSON.generate(request)
+  end
 end

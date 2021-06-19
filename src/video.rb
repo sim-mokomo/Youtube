@@ -13,6 +13,7 @@ class Video
     "https://www.youtube.com/watch?v=#{@video_id}"
   end
 
+  # @param [Array<String>]
   def contain_language_caption(languages)
     response = @youtube_service.service.list_captions('snippet', @video_id)
     response
