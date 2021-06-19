@@ -40,6 +40,11 @@ class CaptionVideoTable
     undetected_video_all.length.positive?
   end
 
+  # @return [Boolean]
+  def caption_video_exists
+    @has_caption_table.records.length.positive?
+  end
+
   # @param [Array<Video>] videos
   def add_videos_by_caption(videos)
     videos.each do |x|

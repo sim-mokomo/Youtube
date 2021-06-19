@@ -23,7 +23,7 @@ class AppConfig
     save
   end
 
-  def reset_api_key_idnex
+  def reset_api_key_index
     @use_youtube_api_key_index = 0
     save
   end
@@ -32,5 +32,14 @@ class AppConfig
     File.open('app_config.json', File::WRONLY | File::SYNC | File::TRUNC | File::CREAT) do |file|
       file.puts(JSON.pretty_generate(to_hash_object))
     end
+  end
+
+  def execute_by_youtube_api_key(callback)
+    youtube_api_keys.each do |api_key|
+      puts "use youtube api key #{api_key}"
+      callback.call
+      increment_api_key_index
+    end
+    reset_api_key_index
   end
 end

@@ -33,20 +33,19 @@ end
 def upload_videos_to_spreadsheet
   OutputConfig.new.playlist_configs.each do |config|
     puts "[START] upload to spreadsheet | #{config.name}"
-    has_caption_video_table = VideoTable.new('./outputs/has_caption', file_name)
-    return if has_caption_video_table.empty
+    caption_video_table = CaptionVideoTable.new(config.name)
+    next unless caption_video_table.caption_video_exists
 
     connection = Connection.new
     connection.post_json_request(
       AppConfig.new.gas_api_endpoint,
-      connection.create_request_object(config.name, has_caption_video_table.records)
+      connection.create_request_object(config.name, caption_video_table.has_caption_table.records)
     )
   end
 end
 
 config = AppConfig.new
-config.youtube_api_keys.each do |api_key|
-  puts "use youtube api key #{api_key}"
+config.execute_by_youtube_api_key(lambda {
   begin
     save_undetected_videos
     check_has_captions
@@ -54,7 +53,5 @@ config.youtube_api_keys.each do |api_key|
     puts e.class
     puts e.message
   end
-  config.increment_api_key_index
-end
-config.reset_api_key_idnex
+})
 upload_videos_to_spreadsheet
